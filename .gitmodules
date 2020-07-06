@@ -1,0 +1,3 @@
+[submodule "themes/newsroom"]
+	path = themes/newsroom
+	url = https://github.com/onweru/newsroom.git
