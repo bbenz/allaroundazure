@@ -1,0 +1,38 @@
+baseurl = "https://jolly-plant-0237d771e.azurestaticapps.net"  # Include trailing slash
+title = "All About Azure"
+theme = "newsroom"
+author = "Weru"
+copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
+canonifyurls = true
+paginate = 3
+# Enable syntax highlighting
+# comment or delete lines 11 ~ 14
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses=true
+pygmentsOptions = "linenos=table"
+
+# Alternatively, you can use chroma instead of pigments
+# to do so comment or delete lines 11 ~ 14 and uncomment lines 17 ~ 27
+# [markup]
+#   [markup.highlight]
+#     codeFences = true
+#     guessSyntax = false
+#     hl_Lines = ""
+#     lineNoStart = 1
+#     lineNos = true
+#     lineNumbersInTable = true
+#     noClasses = false
+#     # style = "monokai"
+#     tabWidth = 2
+
+# If you want to use disqus, uncomment the line below
+# disqusShortname = "yourdiscussshortname"
+
+# ids used below are not valid. Replace with valid ones
+[params]
+  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
+  
+  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+  # twitter = "" # twitter handle e.g @weru
+  # blogDir = "allaboutazure" # uncomment and edit to exclude normal pages ... see issue #57
