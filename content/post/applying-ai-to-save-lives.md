@@ -16,29 +16,44 @@ How A Team at Microsoft made Drones Self Aware The world is changing. Our desire
 📺 Stream #AllAroundAzure no. 006
 
 USEFUL LINKS:
+
 -----------------------
+
 🔗 https://aka.ms/azupdateshow
+
 🔗 https://aka.ms/mslearniot
+
 🔗 https://aka.ms/cogservdocs
+
 🔗 https://aka.ms/CogServLearn
+
 
 Fun links
 -------------
 
 🔗 Mouse maze experiment video: https://www.youtube.com/watch?v=UB_37... 
+
 🔗 Building the Perfect Squirrel Proof Bird Feeder: https://www.youtube.com/watch?v=hFZFj... 
 
 
+
 GUEST: Anthony Bartolo
+
 -----------------
+
 🔗 Twitter: https://twitter.com/wirelesslife
+
 🔗 Bio: https://developer.microsoft.com/en-us...
+
 🔗 GitHub: http://aka.ms/wirelesslife
 
 
 FIND US ON
+
 ---------------
+
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper
+
 🔗 Twitter: https://twitter.com/fboucheros
 
 ☁️ -- Watch live at https://www.twitch.tv/microsoftdeveloper
