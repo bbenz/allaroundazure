@@ -7,18 +7,13 @@ image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.png
 tags: ["cli"]
 ---
 
-## 📺 WATCH NOW
-
 {{< video "OQAu2q0z-wA" >}}
 
----
 In this live session Brian will join Frank to show all how to get the most out of the experience on Windows, Mac & Linux, with the command line.
 
 📺 Stream #AllAroundAzure no. 003
 
 USEFUL LINKS:
-
------------------------
 
 🔗 Windows Terminal: https://cda.ms/1p8
 
@@ -38,20 +33,14 @@ USEFUL LINKS:
 
 GUEST: Brian Benz
 
------------------
-
 🔗 Twitter: https://twitter.com/bbenz
 
 🔗 bio: https://developer.microsoft.com/en-us...
 
-
 FIND US ON
-
----------------
 
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper
 
 🔗 Twitter: https://twitter.com/fboucheros
-
 
 ☁️ -- Watch live at https://www.twitch.tv/microsoftdeveloper

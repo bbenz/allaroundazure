@@ -7,8 +7,6 @@ image: BitStreaming.jpeg
 tags: ["serverless"]
 ---
 
-## 📺 WATCH NOW
-
 {{< video "ZliwX9Hgy0c" >}}
 
 ---
@@ -17,8 +15,6 @@ Join Laurent and Frank to build a cross-platform Notifications client with Xamar
 📺 Stream #AllAroundAzure no. 002 
 
 USEFUL LINKS: 
-
------------------------ 
 
 🔗 Repo for this session 
 
@@ -48,11 +44,7 @@ http://gslb.ch/d423b
 
 http://gslb.ch/d10b 
 
-
-GUEST: Laurent Bugnion 
-
----------------------- 
-
+GUEST: Laurent Bugnion
 
 🔗 Twitter: https://twitter.com/lbugnion 
 
@@ -63,11 +55,8 @@ GUEST: Laurent Bugnion
 
 FIND US ON 
 
---------------- 
-
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper 
 
 🔗 Twitter: https://twitter.com/fboucheros 
-
 
 ☁️

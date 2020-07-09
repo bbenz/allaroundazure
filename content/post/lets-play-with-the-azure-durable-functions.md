@@ -7,8 +7,6 @@ image: 2020-06-30–Maxime-Rouiller-Lets-Play-With-The-Azure-Durable-Functions.p
 tags: ["durable functions", "serverless"]
 ---
 
-## 📺 WATCH NOW
-
 {{< video "xnFeEjzand8" >}}
 
 Maxime is joining Frank in live stream to show us how to build cool project using the Azure Durable Functions
@@ -16,7 +14,6 @@ Maxime is joining Frank in live stream to show us how to build cool project usin
 📺 Stream #AllAroundAzure no. 007
 
 USEFUL LINKS:
------------------------
 
 🔗 https://github.com/MaximRouiller/Redd...
 
@@ -36,7 +33,6 @@ USEFUL LINKS:
 
 
 GUEST: Maxime Rouiller
------------------
 
 🔗 Twitter: https://twitter.com/maximrouiller
 
@@ -44,14 +40,11 @@ GUEST: Maxime Rouiller
 
 🔗 GitHub: https://github.com/MaximRouiller
 
-
 FIND US ON
----------------
 
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper
 
 🔗 Twitter: https://twitter.com/fboucheros
-
 
 ☁️
  -- Watch live at https://www.twitch.tv/microsoftdeveloper

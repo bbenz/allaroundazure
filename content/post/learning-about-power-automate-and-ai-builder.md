@@ -7,18 +7,13 @@ image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.png
 tags: ["artificial intellegence"]
 ---
 
-## 📺 WATCH NOW
-
 {{< video "Q3dMGV-nSc4" >}}
 
----
 Spend some time with Amy and Frank learning about #Power Automate and #AI Builder by building out end-to-end scenarios to make everyday tasks more efficient and automated
 
 📺 Stream #AllAroundAzure no. 001
 
 USEFUL LINKS:
-
------------------------
 
 🔗 https://aka.ms/mslearn-powerautomate 
 
@@ -27,8 +22,6 @@ USEFUL LINKS:
 🔗 https://aka.ms/aibuilder-calculator 
 
 INFLUENCERS TO FOLLOW (Twitter Handles)
-
------------------------
 
 😁 Dona Sarkar: https://twitter.com/donasarkar
 
@@ -42,15 +35,11 @@ INFLUENCERS TO FOLLOW (Twitter Handles)
 
 GUEST: Amy Boyd
 
------------------
-
 🔗 Twitter: https://twitter.com/AmyKateNicho
 
 🔗 bio: https://developer.microsoft.com/en-us...
 
 FIND US ON
-
----------------
 
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper
 

@@ -7,11 +7,7 @@ image: BitStreaming.jpeg
 tags: ["serverless"]
 ---
 
-## 📺 WATCH NOW
-
 {{< video "DZsDQh9DN0w" >}}
-
----
 
 ### Show Notes
 
@@ -22,8 +18,6 @@ no. 008
 🔗 https://codetraveler.io/azure-functions-in-net/
 
 ### Guest: [Brandon Minnick](https://twitter.com/TheCodeTraveler)
-
----
 
 🔗 Twitter: https://twitter.com/TheCodeTraveler
 
