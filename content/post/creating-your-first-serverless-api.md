@@ -4,7 +4,6 @@ author: Jason Hand
 date: 2020-07-02
 draft: false
 image: BitStreaming.jpeg
-video: https://youtu.be/DZsDQh9DN0w
 tags: ["serverless"]
 ---
 
