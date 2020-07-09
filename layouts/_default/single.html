@@ -7,7 +7,7 @@
       <div class = 'post_body'>
         <div class = 'post_inner'>
         {{ with .Params.image }}
-        <img src = '{{ absURL (printf "images/%s" .) }}' alt = '{{ . }}' class = 'post_thumbnail'>
+        <!-- <img src = '{{ absURL (printf "images/%s" .) }}' alt = '{{ . }}' class = 'post_thumbnail'> -->
         {{ end }}
           {{ .Content }}
         </div>
