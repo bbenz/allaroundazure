@@ -118,6 +118,8 @@
 
 body, html {
   scroll-behavior: smooth;
+  font-kerning: normal;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -1116,6 +1118,7 @@ aside h3 {
   color: var(--text) !important;
   border-radius: 4px;
   max-width: 100%;
+  overflow-x: auto;
 }
 
 .highlight table {

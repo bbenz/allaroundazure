@@ -1,7 +1,7 @@
 baseurl = "https://jolly-plant-0237d771e.azurestaticapps.net"  # Include trailing slash
 title = "All Around Azure"
 theme = "newsroom"
-author = "Weru"
+# author = "Weru"
 copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 3
@@ -35,4 +35,4 @@ pygmentsOptions = "linenos=table"
   
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
   # twitter = "" # twitter handle e.g @weru
-  # blogDir = "allaboutazure" # uncomment and edit to exclude normal pages ... see issue #57
+blogDir = "public" # uncomment and edit to exclude normal pages ... see issue #57
