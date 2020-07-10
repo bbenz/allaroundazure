@@ -1,3 +1,3 @@
-# All About Azure
+# All Around Azure
 
-All About Azure Web Site
+All Around Azure Web Site
