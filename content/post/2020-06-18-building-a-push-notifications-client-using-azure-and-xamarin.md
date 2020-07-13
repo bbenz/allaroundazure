@@ -1,9 +1,9 @@
 ---
 title: "Building a Push Notifications client using Azure and Xamarin"
 author: Laurent Bugnion
-date: 2020-07-08
+date: 2020-06-18
 draft: false
-image: BitStreaming.jpeg
+image: 2020-06-18–Laurent-Bugnion-Part1.png
 tags: ["serverless"]
 ---
 

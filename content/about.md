@@ -1,6 +1,6 @@
 +++
 title = "All Around Azure"
-date = "2020-07-01"
+date = "2020-06-01"
 image = 'street.jpg'
 +++
 

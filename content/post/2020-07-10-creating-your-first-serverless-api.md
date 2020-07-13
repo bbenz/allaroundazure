@@ -1,9 +1,9 @@
 ---
 title: "Creating your first serverless API using Azure Functions"
-author: Jason Hand
-date: 2020-07-02
+author: Brandon Minnick
+date: 2020-07-10
 draft: false
-image: BitStreaming.jpeg
+image: 2020-07-10-Brandon-Minnick-Serverless-API.png
 tags: ["serverless"]
 ---
 
