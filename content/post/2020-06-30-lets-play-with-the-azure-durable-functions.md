@@ -4,7 +4,7 @@ author: Maxime Rouiller
 date: 2020-06-30
 draft: false
 image: 2020-06-30–Maxime-Rouiller-Lets-Play-With-The-Azure-Durable-Functions.png
-tags: ["durable functions", "serverless"]
+tags: ["Durable Functions", "Serverless"]
 ---
 
 {{< video "xnFeEjzand8" >}}

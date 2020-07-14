@@ -4,7 +4,7 @@ author: Anthony Bartolo
 date: 2020-07-05
 draft: false
 image: BitStreaming.jpeg
-tags: ["artificial intelligence"]
+tags: ["Artificial Intelligence"]
 ---
 
 {{< video "lGGREyHwmn8N0w" >}}

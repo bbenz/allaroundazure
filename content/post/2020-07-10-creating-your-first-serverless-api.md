@@ -4,7 +4,7 @@ author: Brandon Minnick
 date: 2020-07-10
 draft: false
 image: 2020-07-10-Brandon-Minnick-Serverless-API.png
-tags: ["serverless"]
+tags: ["Serverless", "Azure Functions", "API"]
 ---
 
 {{< video "DZsDQh9DN0w" >}}
