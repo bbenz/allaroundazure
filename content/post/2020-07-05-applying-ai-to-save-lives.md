@@ -2,7 +2,7 @@
 title: "Applying AI to Save Lives"
 author: Anthony Bartolo
 date: 2020-07-05
-draft: false
+draft: true
 image: BitStreaming.jpeg
 ---
 
