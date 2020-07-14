@@ -4,7 +4,6 @@ author: Amy Boyd
 date: 2020-07-09
 draft: false
 image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.png
-tags: ["artificial intelligence", "Power Automate"]
 ---
 
 {{< video "Q3dMGV-nSc4" >}}

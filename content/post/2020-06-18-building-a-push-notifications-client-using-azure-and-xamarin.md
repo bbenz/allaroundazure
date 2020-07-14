@@ -4,7 +4,6 @@ author: Laurent Bugnion
 date: 2020-06-18
 draft: false
 image: 2020-06-18–Laurent-Bugnion-Part1.png
-tags: ["Xamarin", "Mobile"]
 ---
 
 {{< video "ZliwX9Hgy0c" >}}

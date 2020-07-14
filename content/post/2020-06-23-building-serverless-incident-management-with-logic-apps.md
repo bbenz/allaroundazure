@@ -4,7 +4,6 @@ author: Jason Hand
 date: 2020-06-23
 draft: false
 image: 2020-06-23–Jason-Hand-Serverless-Incident-Management.png
-tags: ["Logic Apps", "Incident Management", "On-call"]
 ---
 
 {{< video "38RQ3tJi1uw" >}}
