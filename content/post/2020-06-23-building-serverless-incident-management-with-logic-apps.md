@@ -2,7 +2,7 @@
 title: "Building Serverless Incident Management with Logic Apps"
 author: Jason Hand
 date: 2020-06-23
-draft: true
+draft: false
 image: 2020-06-23–Jason-Hand-Serverless-Incident-Management.png
 ---
 
