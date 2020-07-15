@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "Building a Notifications client with Xamarin and Azure"
-=======
 title: "Building a Notifications client with Xamarin and Azure - Part 1"
->>>>>>> 445fefa2b4c40f48598495edea19708630caa176
 author: Laurent Bugnion
 date: 2020-06-18
 draft: false
