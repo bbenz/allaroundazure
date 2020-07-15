@@ -34,7 +34,7 @@ Finally Amy finished the stream by analysing invoices using [Forms Recogniser ca
 ## Guest: Amy Boyd
 
 🔗 Twitter: https://twitter.com/AmyKateNicho
-🔗 bio: https://developer.microsoft.com/en-us...
+🔗 bio: https://developer.microsoft.com/en-us/advocates/amy-boyd
 
 ## Find us on
 
