@@ -1,61 +1,39 @@
 ---
-title: "Building a Push Notifications client using Azure and Xamarin"
+title: "Building a Notifications client with Xamarin and Azure: Extending the infrastructure to Windows and adding the Notification Hub - Part 1"
 author: Laurent Bugnion
 date: 2020-06-18
 draft: false
 image: 2020-06-18–Laurent-Bugnion-Part1.png
 ---
 
+# Building a Notifications client with Xamarin and Azure
+
+## Extending the infrastructure to Windows and adding the Notification Hub - Part 1
+
+In this first session of a series, Laurent joined Frank to show how he built a cross-platform Notifications client with Xamarin and Azure. In the episode, we will build the infrastructure for Android, Setting up Firebase and the Visual Studio solution with all the required projects.
+
 {{< video "ZliwX9Hgy0c" >}}
-
----
-Join Laurent and Frank to build a cross-platform Notifications client with Xamarin and Azure. In the first episode, we will build the infrastructure for Android. 
-
 📺 Stream #AllAroundAzure no. 002 
 
-USEFUL LINKS: 
+## Useful Links
 
-🔗 Repo for this session 
+🔗 Repo for this session: https://github.com/lbugnion/sample-azure-xamarin-notifications  
+🔗 Building a SignalR Chat Client for Web and Xamarin.Forms: https://github.com/lbugnion/sample-xamarin-signalr  
+🔗 Firebase Cloud Messaging: https://firebase.google.com/docs/cloud-messaging/  
+🔗 Postman: https://www.postman.com/  
+🔗 Azure Notification Hub: https://cda.ms/1r0
+🔗 Announcing App Center retirement: https://cda.ms/1qZ  
+🔗 An introduction to Azure Functions: https://cda.ms/1qY
 
-https://github.com/lbugnion/sample-az...  
-
-🔗 Building a SignalR Chat Client for Web and Xamarin.Forms 
-
-https://github.com/lbugnion/sample-xa...  
-
-🔗 Firebase Cloud Messaging 
-
-https://firebase.google.com/docs/clou...  
-
-🔗 Postman 
-
-https://www.postman.com/  
-
-🔗 Azure Notification Hub 
-
-http://gslb.ch/d425b  
-
-🔗 Announcing App Center retirement 
-
-http://gslb.ch/d423b  
-
-🔗 An introduction to Azure Functions 
-
-http://gslb.ch/d10b 
-
-GUEST: Laurent Bugnion
+## Guest: Laurent Bugnion
 
 🔗 Twitter: https://twitter.com/lbugnion 
-
-🔗 bio: https://developer.microsoft.com/en-us... 
-
+🔗 Bio: https://developer.microsoft.com/en-us/advocates/laurent-bugnion 
 🔗 http://galasoft.ch/intro 
 
-
-FIND US ON 
+## Find us on
 
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper 
-
 🔗 Twitter: https://twitter.com/fboucheros 
 
 ☁️
