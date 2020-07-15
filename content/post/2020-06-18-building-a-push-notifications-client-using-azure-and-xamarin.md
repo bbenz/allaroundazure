@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Building a Notifications client with Xamarin and Azure"
+=======
+title: "Building a Notifications client with Xamarin and Azure - Part 1"
+>>>>>>> 445fefa2b4c40f48598495edea19708630caa176
 author: Laurent Bugnion
 date: 2020-06-18
 draft: false
@@ -19,10 +23,10 @@ In this first session of a series, Laurent joined Frank to show how he built a c
 🔗 Repo for this session: https://github.com/lbugnion/sample-azure-xamarin-notifications  
 🔗 Building a SignalR Chat Client for Web and Xamarin.Forms: https://github.com/lbugnion/sample-xamarin-signalr  
 🔗 Firebase Cloud Messaging: https://firebase.google.com/docs/cloud-messaging/  
-🔗 Postman: https://www.postman.com/  
-🔗 Azure Notification Hub: https://cda.ms/1r0
+🔗 Postman: https://www.postman.com/   
+🔗 Azure Notification Hub: https://cda.ms/1r0 
 🔗 Announcing App Center retirement: https://cda.ms/1qZ  
-🔗 An introduction to Azure Functions: https://cda.ms/1qY
+🔗 An introduction to Azure Functions: https://cda.ms/1qY 
 
 ## Guest: Laurent Bugnion
 
