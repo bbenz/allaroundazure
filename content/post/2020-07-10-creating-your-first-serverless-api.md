@@ -7,17 +7,23 @@ image: 2020-07-02–BrandonMinnick-AzureFunctionsindotNET.png
 ---
 
 {{< video "fKpCUKDl4hA" >}}
+📺 Stream #AllAroundAzure no. 008
 
-### Show Notes
 
-no. 008
-
-### Links
+## Useful Links
 
 🔗 https://codetraveler.io/azure-functions-in-net/
 
-### Guest: [Brandon Minnick](https://twitter.com/TheCodeTraveler)
+### Guest: Brandon Minnick
 
 🔗 Twitter: https://twitter.com/TheCodeTraveler
 
 🔗 bio: https://developer.microsoft.com/en-us/advocates/brandon-minnick
+
+## Find us on
+
+📺 Twitch: https://www.twitch.tv/microsoftdeveloper
+
+🔗 Twitter: https://twitter.com/jasonhand
+
+☁️
