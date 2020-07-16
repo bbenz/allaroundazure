@@ -6,7 +6,7 @@ draft: false
 image: 2020-07-02–BrandonMinnick-AzureFunctionsindotNET.png
 ---
 
-{{< video "DZsDQh9DN0w" >}}
+{{< video "fKpCUKDl4hA" >}}
 
 ### Show Notes
 

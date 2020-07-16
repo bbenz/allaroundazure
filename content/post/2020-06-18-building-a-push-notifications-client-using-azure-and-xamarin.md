@@ -6,7 +6,7 @@ draft: false
 image: 2020-06-18–Laurent-Bugnion-Part1.png
 ---
 
-## Extending the infrastructure to Windows and adding the Notification Hub - Part 1
+## Extending the infrastructure to Windows and adding the Notification Hub
 
 In this first session of a series, Laurent joined Frank to show how he built a cross-platform Notifications client with Xamarin and Azure. In the episode, we will build the infrastructure for Android, Setting up Firebase and the Visual Studio solution with all the required projects.
 
