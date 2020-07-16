@@ -11,6 +11,7 @@ image: 2020-06-18–Laurent-Bugnion-Part1.png
 In this first session of a series, Laurent joined Frank to show how he built a cross-platform Notifications client with Xamarin and Azure. In the episode, we will build the infrastructure for Android, Setting up Firebase and the Visual Studio solution with all the required projects.
 
 {{< video "ZliwX9Hgy0c" >}}
+
 📺 Stream #AllAroundAzure no. 002 
 
 ## Useful Links

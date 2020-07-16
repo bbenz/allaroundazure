@@ -19,27 +19,34 @@ Finally Amy finished the stream by analysing invoices using [Forms Recogniser ca
 
 ## Useful Links
 
-🔗 MS Learn Power Automate: https://cda.ms/1pY 
-🔗 MS Lear AI Builder: https://cda.ms/1pW 
-🔗 AI Builder Calculator: https://cda.ms/1pR 
+🔗 MS Learn Power Automate: https://cda.ms/1pY
+
+🔗 MS Lear AI Builder: https://cda.ms/1pW
+
+🔗 AI Builder Calculator: https://cda.ms/1pR
 
 ## Influencers to Follow
 
-😁 Dona Sarkar: https://twitter.com/donasarkar 
-😁 Keith Whatling: https://twitter.com/KeithWhatling 
-😁 Alison Mulligan: https://twitter.com/AMulligan365 
-😁 Chris Huntingford: https://twitter.com/TATTOOEDCRMGUY 
-😁 Jese Navaranjan: https://twitter.com/JeseNav2 
+😁 Dona Sarkar: https://twitter.com/donasarkar
+
+😁 Keith Whatling: https://twitter.com/KeithWhatling
+
+😁 Alison Mulligan: https://twitter.com/AMulligan365
+
+😁 Chris Huntingford: https://twitter.com/TATTOOEDCRMGUY
+
+😁 Jese Navaranjan: https://twitter.com/JeseNav2
 
 ## Guest: Amy Boyd
 
-🔗 Twitter: https://twitter.com/AmyKateNicho 
-🔗 bio: https://developer.microsoft.com/en-us/advocates/amy-boyd 
+🔗 Twitter: https://twitter.com/AmyKateNicho
+
+🔗 bio: https://developer.microsoft.com/en-us/advocates/amy-boyd
 
 ## Find us on
 
-📺 Twitch: https://www.twitch.tv/microsoftdeveloper 
-🔗 Twitter: https://twitter.com/fboucheros 
+📺 Twitch: https://www.twitch.tv/microsoftdeveloper
 
+🔗 Twitter: https://twitter.com/fboucheros
 
 ☁️
