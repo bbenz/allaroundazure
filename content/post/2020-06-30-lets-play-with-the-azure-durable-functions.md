@@ -12,7 +12,7 @@ Maxime is joining Frank in live stream to show us how to build cool project usin
 
 📺 Stream #AllAroundAzure no. 007
 
-USEFUL LINKS:
+## Useful Links:
 
 🔗 https://github.com/MaximRouiller/Redd...
 
@@ -31,7 +31,7 @@ USEFUL LINKS:
 🔗 https://docs.microsoft.com/azure/azur...
 
 
-GUEST: Maxime Rouiller
+## Guest: Maxime Rouiller
 
 🔗 Twitter: https://twitter.com/maximrouiller
 
@@ -39,11 +39,11 @@ GUEST: Maxime Rouiller
 
 🔗 GitHub: https://github.com/MaximRouiller
 
-FIND US ON
+
+## Find us on
 
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper
 
 🔗 Twitter: https://twitter.com/fboucheros
 
 ☁️
- -- Watch live at https://www.twitch.tv/microsoftdeveloper
