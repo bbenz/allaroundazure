@@ -6,40 +6,30 @@ draft: false
 image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.png
 ---
 
-{{< video "OQAu2q0z-wA" >}}
-
 In this live session Brian will join Frank to show all how to get the most out of the experience on Windows, Mac & Linux, with the command line.
 
+{{< video "OQAu2q0z-wA" >}}
 📺 Stream #AllAroundAzure no. 003
 
-USEFUL LINKS:
+## Useful Links
 
-🔗 Windows Terminal: https://cda.ms/1p8
+- Windows Terminal: https://cda.ms/1p8
+- WSL: https://github.com/microsoft/WSL
+- MS-DOS: https://github.com/Microsoft/MS-DOS
+- Window Terminal: https://github.com/Microsoft/Terminal
+- Azure-cli: https://github.com/Azure/azure-cli
+- Cloud Shell: https://shell.azure.com/
+- Exam AZ-900: https://cda.ms/1p9
+- Hanselman blog post: https://cda.ms/1pf
 
-🔗 https://github.com/microsoft/WSL
+## Guest: Brian Benz
 
-🔗 https://github.com/Microsoft/MS-DOS
+- Twitter: https://twitter.com/bbenz
+- bio: https://developer.microsoft.com/en-us...
 
-🔗 https://github.com/Microsoft/Terminal
+## Find us on
 
-🔗 https://github.com/Azure/azure-cli
+- Twitch: https://www.twitch.tv/microsoftdeveloper
+- Twitter: https://twitter.com/fboucheros
 
-🔗 https://shell.azure.com/
-
-🔗 Exam AZ-900: https://cda.ms/1p9
-
-🔗 Hanselman blog post: https://cda.ms/1pf
-
-GUEST: Brian Benz
-
-🔗 Twitter: https://twitter.com/bbenz
-
-🔗 bio: https://developer.microsoft.com/en-us...
-
-FIND US ON
-
-📺 Twitch: https://www.twitch.tv/microsoftdeveloper
-
-🔗 Twitter: https://twitter.com/fboucheros
-
-☁️ -- Watch live at https://www.twitch.tv/microsoftdeveloper
+☁️ 
