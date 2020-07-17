@@ -6,7 +6,7 @@ draft: true
 image: 2020-07-06–ThomasMaurer-AzureArc.png
 ---
 
-{{< video "fKpCUKDl4hA" >}}
+{{< video "6dOXoXNORKM" >}}
 
 ### Show Notes
 
