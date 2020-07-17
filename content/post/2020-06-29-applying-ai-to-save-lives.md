@@ -6,40 +6,39 @@ draft: false
 image: 2020-06-29–AnthonyBartolo-ApplyingAItosavelives_2.png
 ---
 
-How A Team at Microsoft made Drones Self Aware The world is changing. Our desire to have information at our fingertips at all times allows us to be more informative of our decisions and selections. Data now resides in the cloud but parking it there is not enough. Artificial Intelligence plays a key role in understanding all this data, but where does one start? Attend this session to learn how Microsoft, alongside Indro Robotics and the Canadian Coast Guard, collaborated on a project to harness AI in making drones self-aware in aid of search and rescue efforts as well as other open source implementations of AI.
-
 {{< video "lGGREyHwmn8" >}}
-📺 Stream #AllAroundAzure no. 006
+
+## 📺 All Around Azure no. 006
+
+## Guest -Anthony Bartolo
+
+🔗 [Twitter](https://twitter.com/wirelesslife)
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/anthony-bartolo)
+🔗 [GitHub](http://aka.ms/wirelesslife)
+
+---
+
+How a team at Microsoft made Drones Self Aware The world is changing. Our desire to have information at our fingertips at all times allows us to be more informative of our decisions and selections. Data now resides in the cloud but parking it there is not enough. Artificial Intelligence plays a key role in understanding all this data, but where does one start? Attend this session to learn how Microsoft, alongside Intro Robotics and the Canadian Coast Guard, collaborated on a project to harness AI in making drones self-aware in aid of search and rescue efforts as well as other open source implementations of AI.
+
+---
 
 ## Useful Links
 
-🔗 https://aka.ms/azupdateshow
+🔗 [Az Update: Azure Site Recovery updates, Citrix Future of Work, Azure Maps Power BI Visual and more](https://techcommunity.microsoft.com/t5/itops-talk-blog/az-update-azure-site-recovery-updates-citrix-future-of-work/ba-p/1526775?WT.mc_id=allaroundazure-video-abartolo)
 
-🔗 https://aka.ms/mslearniot
+🔗 [Internet of Things on Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&term=iot&terms=iot)
 
-🔗 https://aka.ms/cogservdocs
+🔗 [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=slides-docs-abartolo)
 
-🔗 https://aka.ms/CogServLearn
+🔗 [Using pre-built AI to solve business challenges](https://docs.microsoft.com/en-us/users/msignite2019/collections/zmqa7j28r7kr??WT.mc_id=allaroundazure-video-abartolo)
 
-🔗 Mouse maze experiment video: https://www.youtube.com/watch?v=UB_37... 
+## Fun Links
 
-🔗 Building the Perfect Squirrel Proof Bird Feeder: https://www.youtube.com/watch?v=hFZFj... 
+🔗 [Mouse maze experiment video](https://www.youtube.com/watch?v=UB_37encRCI)
 
+🔗 [Building the Perfect Squirrel Proof Bird Feeder](https://www.youtube.com/watch?v=hFZFjoX2cGg)
 
+## Find Us On
 
-## Guest: Anthony Bartolo
-
-🔗 Twitter: https://twitter.com/wirelesslife
-
-🔗 Bio: https://developer.microsoft.com/en-us...
-
-🔗 GitHub: http://aka.ms/wirelesslife
-
-
-## Find us on
-
-📺 Twitch: https://www.twitch.tv/microsoftdeveloper
-
-🔗 Twitter: https://twitter.com/fboucheros
-
-☁️ -- 
+📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
+🔗 [Twitter](https://twitter.com/fboucheros)

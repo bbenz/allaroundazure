@@ -6,10 +6,11 @@ draft: false
 image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.png
 ---
 
-In this live session Brian will join Frank to show all how to get the most out of the experience on Windows, Mac & Linux, with the command line.
-
 {{< video "OQAu2q0z-wA" >}}
-📺 Stream #AllAroundAzure no. 003
+
+## 📺 All Around Azure no. 003
+
+In this live session Brian will join Frank to show all how to get the most out of the experience on Windows, Mac & Linux, with the command line.
 
 ## Useful Links
 

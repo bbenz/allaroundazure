@@ -6,10 +6,11 @@ draft: false
 image: 2020-06-23–Jason-Hand-Serverless-Incident-Management.png
 ---
 
-Building Serverless Incident Management with Logic Apps. In this live coding stream Jason joins Frank to explain how to build a very useful Azure Logic Apps
-
 {{< video "38RQ3tJi1uw" >}}
-📺 Stream #AllAroundAzure no. 004
+
+## 📺 All Around Azure no. 004
+
+Building Serverless Incident Management with Logic Apps. In this live coding stream Jason joins Frank to explain how to build a very useful Azure Logic Apps.
 
 ## Useful Links
 

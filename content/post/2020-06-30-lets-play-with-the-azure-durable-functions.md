@@ -8,42 +8,35 @@ image: 2020-06-30–Maxime-Rouiller-Lets-Play-With-The-Azure-Durable-Functions.p
 
 {{< video "xnFeEjzand8" >}}
 
+## 📺 All Around Azure no. 007
+
+### Guest - Maxime Rouiller
+
+🔗 [@MaximRouiller](https://twitter.com/maximrouiller)
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/maxime-rouiller)
+🔗 [GitHub](https://github.com/MaximRouiller)
+
 Maxime is joining Frank in live stream to show us how to build cool project using the Azure Durable Functions
 
-📺 Stream #AllAroundAzure no. 007
+## Useful Links
 
-## Useful Links:
+🔗 [Reddit Emotion Analyzer](https://github.com/MaximRouiller/RedditEmotionAnalyzer/)
 
-🔗 https://github.com/MaximRouiller/Redd...
+🔗 [Durable Functions - API Scraping Node.js](https://github.com/Azure-Samples/durablefunctions-apiscraping-nodejs/)
 
-🔗 https://github.com/Azure-Samples/dura...
+🔗 [Durable Functions - API Scraping .Net](https://github.com/Azure-Samples/durablefunctions-apiscraping-dotnet/)
 
-🔗 https://github.com/Azure-Samples/dura...
+🔗[Durable Functions Overview](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-overview?tabs=csharp&WT.mc_id=allaroundazure-video-marouill)
 
-🔗 https://docs.microsoft.com/azure/azur...
+🔗[Durable Functions - Create First C#](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode&WT.mc_id=allaroundazure-video-marouill)
 
-🔗 https://docs.microsoft.com/azure/azur...
+🔗[Durable Functions Overview](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-types-features-overview?WT.mc_id=allaroundazure-video-marouill)
 
-🔗 https://docs.microsoft.com/azure/azur...
+🔗[Durable Functions Orchestration](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-orchestrations?WT.mc_id=allaroundazure-video-marouill)
 
-🔗 https://docs.microsoft.com/azure/azur...
+🔗[Durable Functions Code Constraints](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-code-constraints?WT.mc_id=allaroundazure-video-marouill)
 
-🔗 https://docs.microsoft.com/azure/azur...
+## Find Us On
 
-
-## Guest: Maxime Rouiller
-
-🔗 Twitter: https://twitter.com/maximrouiller
-
-🔗 bio: https://developer.microsoft.com/en-us...
-
-🔗 GitHub: https://github.com/MaximRouiller
-
-
-## Find us on
-
-📺 Twitch: https://www.twitch.tv/microsoftdeveloper
-
-🔗 Twitter: https://twitter.com/fboucheros
-
-☁️
+📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
+🔗 [Twitter](https://twitter.com/fboucheros)
