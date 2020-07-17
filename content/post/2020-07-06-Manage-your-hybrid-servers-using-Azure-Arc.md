@@ -2,7 +2,7 @@
 title: "Manage your hybrid servers using Azure Arc"
 author: Thomas Maurer
 date: 2020-07-06
-draft: true
+draft: false
 image: 2020-07-06–ThomasMaurer-AzureArc.png
 ---
 

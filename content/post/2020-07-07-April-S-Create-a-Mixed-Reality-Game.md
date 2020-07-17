@@ -2,7 +2,7 @@
 title: "Manage your hybrid servers using Azure Arc"
 author: April Speight
 date: 2020-07-07
-draft: true
+draft: false
 image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.png
 ---
 
