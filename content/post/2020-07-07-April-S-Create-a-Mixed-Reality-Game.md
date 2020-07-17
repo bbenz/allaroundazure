@@ -1,5 +1,5 @@
 ---
-title: "Manage your hybrid servers using Azure Arc"
+title: "Mixed Reality Recipe Book"
 author: April Speight
 date: 2020-07-07
 draft: false
