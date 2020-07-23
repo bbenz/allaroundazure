@@ -2,7 +2,7 @@ baseurl = "https://zealous-coast-0512ee91e.azurestaticapps.net"  # Include trail
 title = "All Around Azure"
 theme = "newsroom"
 # author = "Weru"
-copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2019, All Around Azure; all rights reserved."
 canonifyurls = true
 paginate = 10
 # Enable syntax highlighting
@@ -23,7 +23,7 @@ pygmentsOptions = "linenos=table"
 #     lineNos = true
 #     lineNumbersInTable = true
 #     noClasses = false
-#     # style = "monokai"
+#     style = "monokai"
 #     tabWidth = 2
 
 # If you want to use disqus, uncomment the line below
