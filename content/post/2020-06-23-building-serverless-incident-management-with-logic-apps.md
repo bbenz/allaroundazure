@@ -14,32 +14,23 @@ Building Serverless Incident Management with Logic Apps. In this live coding str
 
 ## Useful Links
 
-🔗 Json Payload: https://raw.githubusercontent.com/mic...
-
-🔗 Azure Speed Test 2.0: https://azurespeedtest.azurewebsites....
-
-🔗 Azure Latency Test: https://www.azurespeed.com/Azure/Latency
-
-🔗 Power Automate: https://preview.flow.microsoft.com/en...
-
-🔗 Power Apps: https://powerapps.microsoft.com/en-us/
-
-🔗 Portal as TWT: https://portal.azure.com
-
-🔗 Common Alert Schema: https://docs.microsoft.com/en-us/azur...
-
-🔗 Status Pages: https://github.com/jasonhand/teams-in...
+-  Json Payload: https://raw.githubusercontent.com/microsoft/ignite-learning-paths-training-ops/master/ops20/demos/01/alert_body.json
+-  Azure Speed Test 2.0: https://azurespeedtest.azurewebsites.net/
+-  Azure Latency Test: https://www.azurespeed.com/Azure/Latency
+-  Power Automate: https://preview.flow.microsoft.com/en-us/
+-  Power Apps: https://powerapps.microsoft.com/en-us/
+-  Portal as TWT: https://portal.azure.com
+-  Common Alert Schema: https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-common-schema-definitions
+-  Status Pages: https://github.com/jasonhand/teams-incident-status-page-bot
 
 ## Guest: Jason Hand
 
-🔗 Twitter: https://twitter.com/jasonhand
-
-🔗 bio: https://developer.microsoft.com/en-us...
+-  Twitter: https://twitter.com/jasonhand
+-  bio: https://developer.microsoft.com/en-us...
 
 ## Find us on
 
 📺 Twitch: https://www.twitch.tv/microsoftdeveloper
-
 🔗 Twitter: https://twitter.com/fboucheros
 
 ☁️

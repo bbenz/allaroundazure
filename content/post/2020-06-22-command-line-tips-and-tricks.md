@@ -3,8 +3,8 @@ title: "Command Line Tips and Tricks"
 author: Brian Benz
 date: 2020-06-22
 draft: false
-image: https://img.youtube.com/vi/OQAu2q0z-wA/maxresdefault.jpg
-tag: wsl, azure-cli, powershell, cloud shell, remote
+image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.png
+tags: ["wsl","azure-cli","powershell","cloud shell", "remote","Frank Boucher","Brian Benz"]
 ---
 
 {{< video "OQAu2q0z-wA" >}}
