@@ -3,7 +3,7 @@ title: "Learning about Power Automate and AI Builder"
 author: Amy Boyd
 date: 2020-06-16
 draft: false
-image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.png
+image: https://img.youtube.com/vi/Q3dMGV-nSc4/maxresdefault.jpg
 ---
 
 {{< video "Q3dMGV-nSc4" >}}
@@ -20,28 +20,22 @@ Finally Amy finished the stream by analysing invoices using [Forms Recogniser ca
 
 ## Useful Links
 
-🔗 [MS Learn Power Automate](https://cda.ms/1pY)
+- [MS Learn Power Automate](https://cda.ms/1pY)
+- [MS Learn AI Builder](https://cda.ms/1pW)
+- [AI Builder Calculator](https://cda.ms/1pR)
 
-🔗 [MS Learn AI Builder](https://cda.ms/1pW)
+## Influencers to Follow 😁 
 
-🔗 [AI Builder Calculator](https://cda.ms/1pR)
-
-## Influencers to Follow
-
-😁 [Dona Sarkar](https://twitter.com/donasarkar)
-
-😁 [Keith Whatling](https://twitter.com/KeithWhatling)
-
-😁 [Alison Mulligan](https://twitter.com/AMulligan365)
-
-😁 [Chris Huntingford](https://twitter.com/TATTOOEDCRMGUY)
-
-😁 [Jese Navaranjan](https://twitter.com/JeseNav2)
+- [Dona Sarkar](https://twitter.com/donasarkar)
+- [Keith Whatling](https://twitter.com/KeithWhatling)
+- [Alison Mulligan](https://twitter.com/AMulligan365)
+- [Chris Huntingford](https://twitter.com/TATTOOEDCRMGUY)
+- [Jese Navaranjan](https://twitter.com/JeseNav2)
 
 ## Guest: Amy Boyd
 
-🔗 [Twitter](https://twitter.com/AmyKateNicho)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/amy-boyd)
+- [Twitter](https://twitter.com/AmyKateNicho)
+- [Bio](https://developer.microsoft.com/en-us/advocates/amy-boyd)
 
 ## Find us on
 

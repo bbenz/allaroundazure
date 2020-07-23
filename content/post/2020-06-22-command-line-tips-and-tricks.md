@@ -3,7 +3,7 @@ title: "Command Line Tips and Tricks"
 author: Brian Benz
 date: 2020-06-22
 draft: false
-image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.png
+image: https://img.youtube.com/vi/OQAu2q0z-wA/maxresdefault.jpg
 ---
 
 {{< video "OQAu2q0z-wA" >}}
