@@ -3,7 +3,7 @@ title: "Learning about Power Automate and AI Builder"
 author: Amy Boyd
 date: 2020-06-16
 draft: false
-image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.png
+image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.jpg
 tags: ["Power automate","AI","AI builder","Frank Boucher","Amy Boyd"]
 ---
 

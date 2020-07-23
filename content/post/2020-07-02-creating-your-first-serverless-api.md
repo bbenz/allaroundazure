@@ -3,7 +3,7 @@ title: "Creating your first serverless API using Azure Functions"
 author: Brandon Minnick
 date: 2020-07-02
 draft: false
-image: 2020-07-02–BrandonMinnick-AzureFunctionsindotNET.png
+image: 2020-07-02–BrandonMinnick-AzureFunctionsindotNET.jpg
 ---
 
 {{< video "fKpCUKDl4hA" >}}

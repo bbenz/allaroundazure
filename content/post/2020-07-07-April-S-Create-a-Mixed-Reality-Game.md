@@ -3,7 +3,7 @@ title: "Mixed Reality Recipe Book"
 author: April Speight
 date: 2020-07-07
 draft: false
-image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.png
+image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.jpg
 ---
 
 {{< video "5UVwGRP_W7k" >}}

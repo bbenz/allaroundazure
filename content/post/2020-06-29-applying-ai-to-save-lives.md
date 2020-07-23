@@ -3,7 +3,7 @@ title: "Applying AI to Save Lives"
 author: Anthony Bartolo
 date: 2020-06-29
 draft: false
-image: 2020-06-29–AnthonyBartolo-ApplyingAItosavelives_2.png
+image: 2020-06-29–AnthonyBartolo-ApplyingAItosavelives_2.jpg
 tags: ["drones","AI","Power Apps","Cognitive Services","IoT","Anthony Bartolo","Frank Boucher"]
 ---
 
