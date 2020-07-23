@@ -4,7 +4,7 @@ author: Amy Boyd
 date: 2020-06-16
 draft: false
 image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.png
-tags: ["Power automate", "AI", "AI builder", "Frank Boucher", "Amy Boyd"]
+tags: ["Power automate","AI","AI builder","Frank Boucher","Amy Boyd"]
 ---
 
 {{< video "Q3dMGV-nSc4" >}}

@@ -4,7 +4,7 @@ author: Brian Benz
 date: 2020-06-22
 draft: false
 image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.png
-tags: ["wsl","azure-cli","powershell","cloud shell", "remote","Frank Boucher","Brian Benz"]
+tags: ["wsl","azure-cli","powershell","cloud shell","remote","Frank Boucher","Brian Benz"]
 ---
 
 {{< video "OQAu2q0z-wA" >}}

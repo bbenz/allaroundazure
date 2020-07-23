@@ -3,8 +3,8 @@ title: "Building a Notifications client with Xamarin and Azure - Part 1"
 author: Laurent Bugnion
 date: 2020-06-18
 draft: false
-image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.png
-tags: ["Push Notifications", "Xamarin", "Android", "Laurent Bugnion", "Frank Boucher"]
+image: 2020-06-18–Laurent-Bugnion-Part1.png
+tags: ["Push Notifications","Xamarin","Android","Laurent Bugnion","Frank Boucher"]
 ---
 
 {{< video "ZliwX9Hgy0c" >}}
