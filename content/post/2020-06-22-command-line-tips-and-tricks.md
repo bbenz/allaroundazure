@@ -4,13 +4,16 @@ author: Brian Benz
 date: 2020-06-22
 draft: false
 image: https://img.youtube.com/vi/OQAu2q0z-wA/maxresdefault.jpg
+tag: wsl, azure-cli, powershell, cloud shell, remote
 ---
 
 {{< video "OQAu2q0z-wA" >}}
 
 ## 📺 All Around Azure no. 003
 
-In this live session Brian will join Frank to show all how to get the most out of the experience on Windows, Mac & Linux, with the command line.
+In this live session Brian will join Frank to show all how to get the most out of the experience on Windows, Mac & Linux, with the command line. Starting with the command window (CMD) and how you can start in a specific folder directly windows explorer. 
+
+Brian then introduce the new [Windows Terminal](https://www.microsoft.com/en-ca/p/windows-terminal/9n0dx20hk701?WT.mc_id=allaroundazure-blog-bbenz&rtc=1&activetab=pivot:overviewtab) and show us how you can very easily customize it. Once you have your favorite color sets, you and add so many features to help you being more productive.
 
 ## Useful Links
 
