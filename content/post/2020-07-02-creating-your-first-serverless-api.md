@@ -15,6 +15,8 @@ image: 2020-07-02–BrandonMinnick-AzureFunctionsindotNET.jpg
 🔗 [@TheCodeTraveler](https://twitter.com/TheCodeTraveler)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/brandon-minnick)
 
+Brandon joins Jason to chat about serverless and build a API endpoint using .NET and an Azure Function.
+
 ---
 
 Useful Links:

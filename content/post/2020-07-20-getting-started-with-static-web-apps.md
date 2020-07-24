@@ -1,0 +1,46 @@
+---
+title: "Let's Get Started With Azure Static Web Apps"
+author: John Papa
+date: 2020-07-20
+draft: false
+image: 2020-07-20-John-Papa-Static-website_2.jpg
+---
+
+{{< video "31nFBQg5cAQ" >}}
+
+## 📺 All Around Azure no. 015
+
+### Guest - John Papa
+
+🔗 [@John_Papa](https://twitter.com/John_Papa)
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/john-papa)
+
+---
+Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps. Automatically deploy and update a static web application and its API from a GitHub repository.
+
+---
+
+### Useful Links
+
+🔗 [Azure IoT Hub](https://cda.ms/1tm)
+
+[Azure Static Web Apps documentation(https://cda.ms/1rR)
+[GitHub](https://github.com/microsoft/swa-community-kit)
+[Learn Module](https://cda.ms/1rV)
+[ShopAtHome Demo](https://www.shopathome.dev/home)
+[Azure / static-web-apps](https://github.com/azure/static-web-apps)
+[Post by Burke Holland](https://burkeholland.github.io/posts/static-app-root-domain/)
+[johnpapa / hello-worlds](https://github.com/johnpapa/hello-worlds)
+[VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+[Azure Static Web Apps documentation](https://cda.ms/1rS)
+[GitHub](https://github.com/microsoft/swa-community-kit)
+[Learn Module](https://cda.ms/1rT)
+
+
+---
+
+### Find Us On
+
+📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
+🔗 [Twitter](https://twitter.com/fboucheros)
+☁️
