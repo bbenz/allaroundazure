@@ -25,7 +25,7 @@ Creating educational experiences with Mixed Reality can provide educators the ab
 
 🔗 [Azure IoT Hub](https://cda.ms/1tm)
 
-🔗 [Getting started with MRTK(https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
+🔗 [Getting started with MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
 
 🔗 [HL2 tutorials](https://aka.ms/hl2tutorials)
 
