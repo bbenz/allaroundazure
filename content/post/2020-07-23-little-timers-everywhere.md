@@ -3,19 +3,12 @@ title: "Little Timers Everywhere"
 author: Jasmine Greenaway
 date: 2020-07-23
 draft: true
-image: 2020-07-23-Jasmine-Greenaway-Little-Timers-Everywhere.jpg
+image: 2020-07-23-Jasmine-Greenaway.jpg
 ---
 
-{{< video "change_me" >}}
+{{< video "OuE401B2xWM " >}}
 
-## 📺 All Around Azure no. 017
-
-### Guest - Jasmine Greenaway
-
-🔗 [@Paladique](https://twitter.com/paladique)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/jasmine-greenaway)
-
----
+## 📺 no.17 - Jasmine Greenaway - @Paladique
 
 We'll make a little Pomodoro timer. Should it be a VSCode extension? A browser extension? Cross platform app? Should we hook it up to an IoT device too? Let's see what we can come up with!
 
@@ -38,6 +31,13 @@ We'll make a little Pomodoro timer. Should it be a VSCode extension? A browser
 🔗 [Introduction to Azure IoT](https://cda.ms/1tt)
 
 🔗 [Adaptive Cards](https://cda.ms/1tk)
+
+---
+
+### Learn more on Jasmine Greenaway
+
+🔗 [@Paladique](https://twitter.com/paladique)
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/jasmine-greenaway)
 
 ---
 

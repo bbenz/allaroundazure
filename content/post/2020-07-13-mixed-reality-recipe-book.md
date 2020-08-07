@@ -23,8 +23,7 @@ Having a virtual recipe book can come in handy when you’re in need of a hands-
 
 ### Useful Links
 
-🔗
-[Getting started with MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
+🔗 [Getting started with MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
 
 🔗 [HL2 tutorials](https://aka.ms/hl2tutorials)
 
@@ -40,9 +39,9 @@ Having a virtual recipe book can come in handy when you’re in need of a hands-
 
 🔗 [Windows Device Portal – HoloLens](https://aka.ms/windowsdeviceportal-hololens)
 
-🔗[Unity Scripting Reference](https://docs.unity3d.com/ScriptReference/)
+🔗[Unity Scripting Reference](https://docs.unity3d.com/ScriptReference/?WT.mc_id=allaroundazure-blog-apspeigh)
 
-🔗[Speech to Text: Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/)
+🔗[Speech to Text: Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/?WT.mc_id=allaroundazure-blog-apspeigh)
 
 ---
 
