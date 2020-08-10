@@ -3,10 +3,10 @@ title: "Quickly Build PoC with Blazor, ASP.NET MVC and Azure"
 author: Chris Maneu
 date: 2020-07-16
 draft: false
-image: BitStreaming.jpeg
+image: 2020-07-16-Christopher-Maneu_Thumb.jpeg
 ---
 
-{{< video "" >}}
+{{< video "gnvIpFmbSQE" >}}
 
 ## 📺 All Around Azure no. 014
 
