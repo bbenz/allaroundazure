@@ -6,7 +6,7 @@ draft: true
 image: 2020-07-23-Jasmine-Greenaway.jpg
 ---
 
-{{< video "OuE401B2xWM " >}}
+{{< video "OuE401B2xWM" >}}
 
 ## 📺 no.17 - Jasmine Greenaway - @Paladique
 
