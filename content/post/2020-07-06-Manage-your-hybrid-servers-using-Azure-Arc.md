@@ -34,10 +34,4 @@ Thomas Maurer join Frank to shows us how you can manage and govern your Windows 
 
 🔗 [How to Share Azure Resource Graph Queries as a Link](https://cda.ms/1nY)
 
----
-
-## Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

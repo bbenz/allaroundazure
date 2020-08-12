@@ -29,13 +29,7 @@ Realizing that having a single function to do all that works is not very optimal
 - [Durable Functions Code Constraints](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-code-constraints?WT.mc_id=allaroundazure-blog-marouill)
 
 
-## Guest - Maxime Rouiller
-
 - [@MaximRouiller](https://twitter.com/maximrouiller)
 - [Bio](https://developer.microsoft.com/en-us/advocates/maxime-rouiller)
 
-
-## Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)  
-🔗 [Twitter](https://twitter.com/fboucheros)
+☁️

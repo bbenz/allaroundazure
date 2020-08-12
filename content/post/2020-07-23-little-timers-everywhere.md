@@ -41,10 +41,4 @@ We'll make a little Pomodoro timer. Should it be a VSCode extension? A browser
 🔗 [@Paladique](https://twitter.com/paladique)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/jasmine-greenaway)
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

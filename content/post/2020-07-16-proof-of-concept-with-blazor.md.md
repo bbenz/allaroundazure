@@ -28,10 +28,4 @@ Coming...
 
 🔗 Coming soon...
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/bbenz)
 ☁️

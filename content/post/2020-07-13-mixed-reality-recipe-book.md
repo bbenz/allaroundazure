@@ -43,10 +43,4 @@ Having a virtual recipe book can come in handy when you’re in need of a hands-
 
 🔗[Speech to Text: Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/?WT.mc_id=allaroundazure-blog-apspeigh)
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

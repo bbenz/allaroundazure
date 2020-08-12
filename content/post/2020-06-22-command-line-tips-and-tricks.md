@@ -28,14 +28,8 @@ Brian then introduce the new [Windows Terminal](https://www.microsoft.com/en-ca/
 - Exam AZ-900: https://cda.ms/1p9
 - Hanselman blog post: https://cda.ms/1pf
 
-## Guest: Brian Benz
-
 - Twitter: https://twitter.com/bbenz
 - bio: https://developer.microsoft.com/en-us...
 
-## Find us on
-
-- Twitch: https://www.twitch.tv/microsoftdeveloper
-- Twitter: https://twitter.com/fboucheros
 
 ☁️ 

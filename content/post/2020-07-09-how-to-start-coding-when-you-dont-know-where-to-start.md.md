@@ -25,10 +25,4 @@ Brian and Jason will share resources, information and experience to help you sta
 
 Coming
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/jasonhand)
 ☁️

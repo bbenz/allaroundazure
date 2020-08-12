@@ -41,10 +41,5 @@ TBD
 
 🔗 bio: https://developer.microsoft.com/en-us/advocates/erik-st-martin
 
----
 
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

@@ -38,8 +38,4 @@ Finally Amy finished the stream by analysing invoices using [Forms Recogniser ca
 🔗 [Chris Huntingford](https://twitter.com/TATTOOEDCRMGUY)
 🔗 [Jese Navaranjan](https://twitter.com/JeseNav2)
 
-## Find us on
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

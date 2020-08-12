@@ -26,14 +26,8 @@ In this session Jason will build a Serverless Incident Management with Logic App
 -  Common Alert Schema: https://cda.ms/1sZ
 -  Status Pages: https://github.com/jasonhand/teams-incident-status-page-bot
 
-## Guest: Jason Hand
 
 -  Twitter: https://twitter.com/jasonhand
 -  bio: https://developer.microsoft.com/en-us...
-
-## Find us on
-
-📺 Twitch: https://www.twitch.tv/microsoftdeveloper
-🔗 Twitter: https://twitter.com/fboucheros
 
 ☁️

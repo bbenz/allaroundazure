@@ -27,15 +27,7 @@ How a team at Microsoft made Drones Self Aware The world is changing. Our desire
 - [Mouse maze experiment video](https://www.youtube.com/watch?v=UB_37encRCI)
 - [Building the Perfect Squirrel Proof Bird Feeder](https://www.youtube.com/watch?v=hFZFjoX2cGg)
 
-## Guest: Anthony Bartolo
-
 - Twitter: https://twitter.com/wirelesslife
 - Bio: https://developer.microsoft.com/en-us/advocates/anthony-bartolo
-
-## Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
-
 
 ☁️

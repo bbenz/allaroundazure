@@ -23,3 +23,5 @@ Brandon joins Jason to chat about serverless and build a API endpoint using .NET
 Useful Links:
 
 🔗 https://codetraveler.io/azure-functions-in-net/
+
+☁️

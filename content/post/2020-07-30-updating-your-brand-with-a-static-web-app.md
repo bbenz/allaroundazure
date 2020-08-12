@@ -29,12 +29,4 @@ In this episode, Christina Warren joins Jason as they discuss ways of updating y
 
 🔗 bio: https://developer.microsoft.com/en-us/advocates/christina-warren
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-
-🔗 [Twitter](https://twitter.com/fboucheros)
-
 ☁️

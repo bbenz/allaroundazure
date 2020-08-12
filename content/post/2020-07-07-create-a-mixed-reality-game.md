@@ -45,10 +45,4 @@ Also, [here’s a preview of the early draft of the game. This was before I made
 
 [Mixed Reality Tools](aka.ms/mixedrealitytools)
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

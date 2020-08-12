@@ -27,15 +27,9 @@ In this first session of a series, Laurent joined Frank to show how he built a c
 - Announcing App Center retirement: https://cda.ms/1qZ  
 - An introduction to Azure Functions: https://cda.ms/1qY 
 
-## Guest: Laurent Bugnion
 
 - Twitter: https://twitter.com/lbugnion 
 - Bio: https://developer.microsoft.com/en-us/advocates/laurent-bugnion 
 - http://galasoft.ch/intro 
-
-## Find us on
-
-📺 Twitch: https://www.twitch.tv/microsoftdeveloper  
-🔗 Twitter: https://twitter.com/fboucheros   
 
 ☁️

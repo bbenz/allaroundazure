@@ -44,10 +44,4 @@ Creating educational experiences with Mixed Reality can provide educators the ab
 
 🔗 [Microsoft Learn - QnA Bot](https://aka.ms/learnqnabot)
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

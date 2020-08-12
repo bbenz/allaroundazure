@@ -29,12 +29,4 @@ The intent of this project is to take you step-by-step through the process of bu
 
 🔗 bio: https://developer.microsoft.com/en-us/advocates/tierney-cyren
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-
-🔗 [Twitter](https://twitter.com/fboucheros)
-
 ☁️
