@@ -1,6 +1,6 @@
 ---
 title: "Let's Get Started With Azure Static Web Apps"
-author: John Papa
+author: Frank Boucher
 date: 2020-07-20
 draft: false
 image: 2020-07-20-John-Papa-Static-website_2.jpg
@@ -40,21 +40,12 @@ Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Stat
 
 🔗 [Learn Module](https://cda.ms/1rT)
 
-
-
 ### Learn more about John Papa
 
 🔗 [@John_Papa](https://twitter.com/John_Papa)
 
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/john-papa)
 
-
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-
-🔗 [Twitter](https://twitter.com/fboucheros)
+<br />
 
 ☁️

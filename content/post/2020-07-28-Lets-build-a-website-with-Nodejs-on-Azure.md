@@ -1,8 +1,8 @@
 ---
 title: "Let's build a website with Node.js on Azure"
-author: Tiemey Cyren
+author: Frank Boucher
 date: 2020-07-27
-draft: true
+draft: false
 image: 2020-07-28-Tiemey-Cyren_thumb.jpg
 ---
 

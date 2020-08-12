@@ -1,6 +1,6 @@
 ---
 title: "Applying AI to Save Lives"
-author: Anthony Bartolo
+author: Frank Boucher
 date: 2020-06-29
 draft: false
 image: 2020-06-29–AnthonyBartolo-ApplyingAItosavelives_2.jpg

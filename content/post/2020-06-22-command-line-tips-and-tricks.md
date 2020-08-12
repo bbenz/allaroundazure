@@ -1,6 +1,6 @@
 ---
 title: "Command Line Tips and Tricks"
-author: Brian Benz
+author: Jason Hand
 date: 2020-06-22
 draft: false
 image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.jpg

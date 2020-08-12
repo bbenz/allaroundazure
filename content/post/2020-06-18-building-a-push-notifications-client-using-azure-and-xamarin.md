@@ -1,6 +1,6 @@
 ---
 title: "Building a Notifications client with Xamarin and Azure - Part 1"
-author: Laurent Bugnion
+author: Frank Boucher
 date: 2020-06-18
 draft: false
 image: 2020-06-18–Laurent-Bugnion-Part1.jpg

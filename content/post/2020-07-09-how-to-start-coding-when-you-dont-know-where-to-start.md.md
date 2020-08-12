@@ -1,6 +1,6 @@
 ---
 title: "How To Start Coding When You Don't Know Where to Start"
-author: Brian Benz
+author: Jason Hand
 date: 2020-07-09
 draft: false
 image: 2020-07-09-Brian-Benz-How-To-Start-Coding-When.jpg

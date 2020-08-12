@@ -1,6 +1,6 @@
 ---
 title: "Mixed Reality Recipe Book"
-author: April Speight
+author: Frank Boucher
 date: 2020-07-13
 draft: false
 image: 2020-07-13-April-S-Cooking-Book.jpg

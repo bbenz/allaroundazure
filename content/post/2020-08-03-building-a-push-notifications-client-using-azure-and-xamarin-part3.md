@@ -1,6 +1,6 @@
 ---
 title: "Building a Notifications client with Xamarin and Azure: Adding the Azure Functions endpoint - Part 3"
-author: Laurent Bugnion
+author: Frank Boucher
 date: 2020-08-03
 draft: false
 image: 2020-08-03-Laurent-Bugnion_Part3.jpg
@@ -28,10 +28,4 @@ After this is complete and tested, we will add the Azure Functions endpoint. Thi
 
 🔗 
 
----
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 ☁️

@@ -1,6 +1,6 @@
 ---
 title: "Mixed Reality Game"
-author: April Speight
+author: Frank Boucher
 date: 2020-07-07
 draft: false
 image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.jpg

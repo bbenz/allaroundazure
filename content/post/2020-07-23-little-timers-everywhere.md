@@ -1,8 +1,8 @@
 ---
 title: "Little Timers Everywhere"
-author: Jasmine Greenaway
+author: Jason Hand
 date: 2020-07-23
-draft: true
+draft: false
 image: 2020-07-23-Jasmine Greenaway.jpg
 ---
 
