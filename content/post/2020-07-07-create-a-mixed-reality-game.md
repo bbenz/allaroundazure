@@ -6,11 +6,11 @@ draft: false
 image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.jpg
 ---
 
+#### 📺 010 - April Speight 🎙️ Frank Boucher
+
+<!--more-->
+
 {{< video "LOus04NOAFc" >}}
-
-## 📺 All Around Azure no. 010
-
-### Guest - April Speight
 
 🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)

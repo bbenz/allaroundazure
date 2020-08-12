@@ -6,9 +6,11 @@ draft: true
 image: 2020-07-27-Erik St-Martin.jpg
 ---
 
-{{< video "P0GC698GV-I" >}}
+#### 📺 018 - Erik St.Martin 🎙️ Frank Boucher
 
-## 📺 no.18 - Erik St.Martin - @erikstmartin
+<!--more-->
+
+{{< video "P0GC698GV-I" >}}
 
 TBD
 

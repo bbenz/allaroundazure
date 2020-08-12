@@ -7,9 +7,11 @@ image: 2020-06-30–Maxime-Rouiller-Lets-Play-With-The-Azure-Durable-Functions.j
 tags: ["Durable Functions","Azure Function",".Net","Node.js","Maxime Rouiller","Frank Boucher"]
 ---
 
-{{< video "xnFeEjzand8" >}}
+#### 📺 007 Maxime Rouiller 🎙️ Frank Boucher
 
-## 📺 All Around Azure no. 007
+<!--more-->
+
+{{< video "xnFeEjzand8" >}}
 
 In this first session of a series, Maxime is building an [Azure Function](https://azure.microsoft.com/en-ca/services/functions/?WT.mc_id=allaroundazure-blog-marouill) that will goes through all the opened issues of a GitHub repository. 
 

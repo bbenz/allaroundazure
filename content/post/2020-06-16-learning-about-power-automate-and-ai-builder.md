@@ -7,11 +7,11 @@ image: 2020-06-16–Amy-Boyd-Power-Automate-And-AI-Builder.jpg
 tags: ["Power automate","AI","AI builder","Frank Boucher","Amy Boyd"]
 ---
 
+#### 📺 001 - Amy Boyd 🎙️ Frank Boucher
+
+<!--more-->
+
 {{< video "Q3dMGV-nSc4" >}}
-
-## 📺 All Around Azure no. 001
-
-## Guest: Amy Boyd
 
 🔗 [AmyKateNicho](https://twitter.com/AmyKateNicho)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/amy-boyd)

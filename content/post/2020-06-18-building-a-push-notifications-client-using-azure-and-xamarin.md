@@ -7,9 +7,11 @@ image: 2020-06-18–Laurent-Bugnion-Part1.jpg
 tags: ["Push Notifications","Xamarin","Android","Laurent Bugnion","Frank Boucher"]
 ---
 
-{{< video "ZliwX9Hgy0c" >}}
+#### 📺 002 - Laurent Bugnion 🎙️ Frank Boucher
 
-## 📺 All Around Azure no. 002
+<!--more-->
+
+{{< video "ZliwX9Hgy0c" >}}
 
 ### Extending the infrastructure to Windows and adding the Notification Hub
 

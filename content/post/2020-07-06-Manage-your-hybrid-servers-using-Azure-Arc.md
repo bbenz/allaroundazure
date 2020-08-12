@@ -6,11 +6,11 @@ draft: false
 image: 2020-07-06–ThomasMaurer-AzureArc.jpg
 ---
 
+#### 📺 009 - Thomas Maurer 🎙️ Frank Boucher
+
+<!--more-->
+
 {{< video "6dOXoXNORKM" >}}
-
-## 📺 All Around Azure no. 009
-
-### Guest - Thomas Maurer
 
 🔗 [@ThomasMaurer](https://twitter.com/ThomasMaurer)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/thomas-maurer)

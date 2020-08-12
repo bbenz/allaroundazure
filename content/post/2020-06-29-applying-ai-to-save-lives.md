@@ -7,9 +7,11 @@ image: 2020-06-29–AnthonyBartolo-ApplyingAItosavelives_2.jpg
 tags: ["drones","AI","Power Apps","Cognitive Services","IoT","Anthony Bartolo","Frank Boucher"]
 ---
 
-{{< video "lGGREyHwmn8" >}}
+#### 📺 006 - Anthony Bartolo 🎙️ Frank Boucher
 
-## 📺 All Around Azure no. 006
+<!--more-->
+
+{{< video "lGGREyHwmn8" >}}
 
 How a team at Microsoft made Drones Self Aware The world is changing. Our desire to have information at our fingertips at all times allows us to be more informative of our decisions and selections. Data now resides in the cloud but parking it there is not enough. Artificial Intelligence plays a key role in understanding all this data, but where does one start? Attend this session to learn how Microsoft, alongside Intro Robotics and the Canadian Coast Guard, collaborated on a project to harness AI in making drones self-aware in aid of search and rescue efforts as well as other open source implementations of AI.
 

@@ -7,9 +7,11 @@ image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.jpg
 tags: ["wsl","azure-cli","powershell","cloud shell","remote","Frank Boucher","Brian Benz"]
 ---
 
-{{< video "OQAu2q0z-wA" >}}
+#### 📺 003 - Brian Benz 🎙️ Jason Hand
 
-## 📺 All Around Azure no. 003
+<!--more-->
+
+{{< video "OQAu2q0z-wA" >}}
 
 In this live session Brian will join Frank to show all how to get the most out of the experience on Windows, Mac & Linux, with the command line. Starting with the command window (CMD) and how you can start in a specific folder directly windows explorer. 
 

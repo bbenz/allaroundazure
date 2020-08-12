@@ -6,13 +6,14 @@ draft: false
 image: 2020-07-16-Christopher-Maneu_Thumb.jpg
 ---
 
-{{< video "gnvIpFmbSQE" >}}
+#### 📺 014 Christopher Maneu 🎙️ Brian Benz
 
-## 📺 All Around Azure no. 014
+<!--more-->
+
+{{< video "gnvIpFmbSQE" >}}
 
 Chris is helping his scuba diving club to reduce administrative overhead, and he had a new challenge around lending dive gear. During this session he will join Brian to show him how to quickly create a PoC with Blazor and ASP.NET Web APIs. Discover how some Azure services - like CosmosDB and Blob storage - can help you build your apps faster.
 
-### Guest - Chris Maneu
 
 🔗 [@CManeu](https://twitter.com/cmaneu)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/chris_maneu)

@@ -6,11 +6,11 @@ draft: false
 image: 2020-07-09-Brian-Benz-How-To-Start-Coding-When.jpg
 ---
 
-{{< video "change_me" >}}
+#### 📺 011 - Brian Benz 🎙️ Jason Hand
 
-## 📺 All Around Azure no. 011
+<!--more-->
 
-### Guest - Brian Benz
+{{< video "f7Z1EXCFv_A" >}}
 
 🔗 [@BBenz](https://twitter.com/bbenz)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/brian_benz)

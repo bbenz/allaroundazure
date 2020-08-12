@@ -6,11 +6,11 @@ draft: false
 image: 2020-07-13-April-S-Cooking-Book.jpg
 ---
 
+#### 📺  012 - April Speight 🎙️ Frank Boucher
+
+<!--more-->
+
 {{< video "5UVwGRP_W7k" >}}
-
-📺 Stream #AllAroundAzure no. 012
-
-### Guest - April Speight
 
 🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)

@@ -6,9 +6,11 @@ draft: true
 image: 2020-07-30-Christina-Warren_Thumb.jpg
 ---
 
-{{< video "kyBQxEWLHy8" >}}
+#### 📺 019 - Christina Warren 🎙️ Jason Hand
 
-## 📺 no.19 - Christina Warren - @film_girl
+<!--more-->
+
+{{< video "kyBQxEWLHy8" >}}
 
 In this episode, Christina Warren joins Jason as they discuss ways of updating your personal brand with static web sites on Azure.
 

@@ -6,11 +6,12 @@ draft: false
 image: BitStreaming.jpeg
 ---
 
+#### 📺 016 April Speight 🎙️ Frank Boucher
+
+<!--more-->
+
 {{< video "change_me" >}}
 
-## 📺 All Around Azure no. 016
-
-### Guest - April Speight
 
 🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)

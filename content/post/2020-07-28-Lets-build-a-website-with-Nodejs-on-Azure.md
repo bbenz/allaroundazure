@@ -6,9 +6,11 @@ draft: true
 image: 2020-07-28-Tiemey-Cyren_thumb.jpg
 ---
 
-{{< video "VgRPDDPkoLY" >}}
+#### 📺 019 - Tiemey Cyren 🎙️ Frank Boucher
 
-## 📺 no.19 - Tiemey Cyren - @bitandbang
+<!--more-->
+
+{{< video "VgRPDDPkoLY" >}}
 
 The intent of this project is to take you step-by-step through the process of building an Express app, documenting the changes as bite-sized chunks that you'll ideally be able to pick up and iterate upon rapidly.
 

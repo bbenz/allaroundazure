@@ -6,11 +6,12 @@ draft: false
 image: 2020-07-02–BrandonMinnick-AzureFunctionsindotNET.jpg
 ---
 
+#### 📺 008 - Brandon Minnick 🎙️ Jason Hand
+
+<!--more-->
+
 {{< video "fKpCUKDl4hA" >}}
 
-## 📺 All Around Azure no. 008
-
-### Guest - Brandon Minnick
 
 🔗 [@TheCodeTraveler](https://twitter.com/TheCodeTraveler)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/brandon-minnick)

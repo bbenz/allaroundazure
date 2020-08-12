@@ -6,11 +6,11 @@ draft: false
 image: 2020-08-03-Laurent-Bugnion_Part3.jpg
 ---
 
+#### 📺 021 - Laurent Bugnion 🎙️ Frank Boucher
+
+<!--more-->
+
 {{< video "3kihzhNbjCY" >}}
-
-## 📺 All Around Azure no. 021
-
-### Guest - Laurent Bugnion
 
 🔗 [@LBugnion](https://twitter.com/lbugnion)
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/laurent_bugnion)

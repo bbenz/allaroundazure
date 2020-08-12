@@ -18,7 +18,7 @@
         <time class = 'pale'>{{ dateFormat "January 02, 2006" $value.Date }}</time>
         <h3 class = 'article_title'>{{ $value.Title }}</h3>
         <div class = 'article_excerpt {{ if eq $index 0 }} visible {{ end }}'>
-        <p>{{ $value.Summary | truncate 100 }}</p>
+        <p>{{ $value.Summary | truncate 100 | safeHTML }}</p>
         </div>
       </div>
     </a>

@@ -3,12 +3,14 @@ title: "Little Timers Everywhere"
 author: Jasmine Greenaway
 date: 2020-07-23
 draft: true
-image: 2020-07-23-Jasmine-Greenaway.jpg
+image: 2020-07-23-Jasmine Greenaway.jpg
 ---
 
-{{< video "OuE401B2xWM" >}}
+#### 📺 no.17 - Jasmine Greenaway 🎙️ Jason Hand
 
-## 📺 no.17 - Jasmine Greenaway - @Paladique
+<!--more-->
+
+{{< video "OuE401B2xWM" >}}
 
 We'll make a little Pomodoro timer. Should it be a VSCode extension? A browser extension? Cross platform app? Should we hook it up to an IoT device too? Let's see what we can come up with!
 
