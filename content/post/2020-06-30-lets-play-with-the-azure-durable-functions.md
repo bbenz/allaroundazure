@@ -7,7 +7,7 @@ image: 2020-06-30–Maxime-Rouiller-Lets-Play-With-The-Azure-Durable-Functions.j
 tags: ["Durable Functions","Azure Function",".Net","Node.js","Maxime Rouiller","Frank Boucher"]
 ---
 
-#### 📺 007 Maxime Rouiller 🎙️ Frank Boucher
+#### 📺 007 - Maxime Rouiller 🎙️ Frank Boucher
 
 <!--more-->
 

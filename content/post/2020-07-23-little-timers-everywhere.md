@@ -6,7 +6,7 @@ draft: false
 image: 2020-07-23-Jasmine Greenaway.jpg
 ---
 
-#### 📺 no.17 - Jasmine Greenaway 🎙️ Jason Hand
+#### 📺 017 - Jasmine Greenaway 🎙️ Jason Hand
 
 <!--more-->
 

@@ -6,7 +6,7 @@ draft: false
 image: 2020-07-16-Christopher-Maneu_Thumb.jpg
 ---
 
-#### 📺 014 Christopher Maneu 🎙️ Brian Benz
+#### 📺 014 - Christopher Maneu 🎙️ Brian Benz
 
 <!--more-->
 
