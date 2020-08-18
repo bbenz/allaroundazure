@@ -2,7 +2,7 @@
 title: "Let's Get Started With Azure Static Web Apps"
 author: Frank Boucher
 date: 2020-07-20
-draft: false
+draft: true
 image: 2020-07-20-John-Papa-Static-website_2.jpg
 ---
 

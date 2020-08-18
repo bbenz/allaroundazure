@@ -2,7 +2,7 @@
 title: "Creating your first serverless API using Azure Functions"
 author: Jason Hand
 date: 2020-07-02
-draft: false
+draft: true
 image: 2020-07-02–BrandonMinnick-AzureFunctionsindotNET.jpg
 ---
 
