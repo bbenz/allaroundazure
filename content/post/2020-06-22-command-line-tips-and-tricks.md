@@ -19,17 +19,30 @@ Brian then introduce the new [Windows Terminal](https://www.microsoft.com/en-ca/
 
 ## Useful Links
 
-- Windows Terminal: https://cda.ms/1p8
-- WSL: https://github.com/microsoft/WSL
-- MS-DOS: https://github.com/Microsoft/MS-DOS
-- Window Terminal: https://github.com/Microsoft/Terminal
-- Azure-cli: https://github.com/Azure/azure-cli
-- Cloud Shell: https://shell.azure.com/
-- Exam AZ-900: https://cda.ms/1p9
-- Hanselman blog post: https://cda.ms/1pf
 
-- Twitter: https://twitter.com/bbenz
-- bio: https://developer.microsoft.com/en-us...
+🔗  Windows Terminal: https://cda.ms/1p8
+
+🔗  WSL: https://github.com/microsoft/WSL
+
+🔗  MS-DOS: https://github.com/Microsoft/MS-DOS
+
+🔗  Window Terminal: https://github.com/Microsoft/Terminal
+
+🔗  Azure-cli: https://github.com/Azure/azure-cli
+
+🔗  Cloud Shell: https://shell.azure.com/
+
+🔗  Exam AZ-900: https://cda.ms/1p9
+
+🔗  Hanselman blog post: https://cda.ms/1pf
 
 
+
+## Learn more about Brian Benz
+
+🔗  Twitter: https://twitter.com/bbenz
+
+🔗  Bio: https://developer.microsoft.com/en-us/advocates/brian-benz
+
+<br />
 ☁️ 
