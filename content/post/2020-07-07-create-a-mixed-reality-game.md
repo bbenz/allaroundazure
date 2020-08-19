@@ -4,6 +4,7 @@ author: Frank Boucher
 date: 2020-07-07
 draft: true
 image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.jpg
+tags: ["Mixed Reality","HoloLens",".Net","Azure Speech Services", "MRTK","Unity","April Speight","Frank Boucher"]
 ---
 
 #### 📺 010 - April Speight 🎙️ Frank Boucher
@@ -12,8 +13,6 @@ image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.jpg
 
 {{< video "LOus04NOAFc" >}}
 
-🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)
 
 ---
 
@@ -41,8 +40,16 @@ Language learning with Mixed Reality introduces a new way to master a foreign la
 
 🔗 [Unity Scripting Reference](https://docs.unity3d.com/ScriptReference)
 
-Also, [here’s a preview of the early draft of the game. This was before I made it pretty](https://twitter.com/vogueandcode/status/1279092829331918848?s=20)
+🔗 Also, [here’s a preview of the early draft of the game. This was before I made it pretty](https://twitter.com/vogueandcode/status/1279092829331918848?s=20)
 
 [Mixed Reality Tools](aka.ms/mixedrealitytools)
 
+
+### Learn more about April Speight
+
+🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
+
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)
+
+<br />
 ☁️

@@ -4,6 +4,7 @@ author: Frank Boucher
 date: 2020-07-06
 draft: true
 image: 2020-07-06–ThomasMaurer-AzureArc.jpg
+tags: ["Azure Arc","VM","Azure Hybrid","Virtual machine","Thomas Maurer","Frank Boucher"]
 ---
 
 #### 📺 009 - Thomas Maurer 🎙️ Frank Boucher
