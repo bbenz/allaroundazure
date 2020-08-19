@@ -12,13 +12,10 @@ image: 2020-07-06–ThomasMaurer-AzureArc.jpg
 
 {{< video "6dOXoXNORKM" >}}
 
-🔗 [@ThomasMaurer](https://twitter.com/ThomasMaurer)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/thomas-maurer)
-🔗 [Site](https://www.thomasmaurer.ch)
 
 Thomas Maurer join Frank to shows us how you can manage and govern your Windows and Linux machines hosted outside of Azure on your corporate network or other cloud provider, similarly to how you manage native Azure virtual machines. When a hybrid machine is connected to Azure, it becomes a connected machine and is treated as a resource in Azure. Azure Arc provides you with the familiar cloud-native Azure management experience, like RBAC, Tags, Azure Policy, Log Analytics and more.
 
-## Useful Links:
+### Useful Links:
 
 🔗 [Azure Arc](https://cda.ms/1nL)
 
@@ -34,4 +31,14 @@ Thomas Maurer join Frank to shows us how you can manage and govern your Windows 
 
 🔗 [How to Share Azure Resource Graph Queries as a Link](https://cda.ms/1nY)
 
+
+### Learn more about Thomas Maurer
+
+🔗 [@ThomasMaurer](https://twitter.com/ThomasMaurer)
+
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/thomas-maurer)
+
+🔗 [Site](https://www.thomasmaurer.ch)
+
+<br />
 ☁️
