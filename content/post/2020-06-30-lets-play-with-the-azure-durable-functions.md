@@ -17,19 +17,31 @@ In this first session of a series, Maxime is building an [Azure Function](https:
 
 Realizing that having a single function to do all that works is not very optimal, we will then migrate to [Durable Functions](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-types-features-overview?WT.mc_id=allaroundazure-blog-marouill). Moving piece by pieces we will learn how to structure our code with the *Orchestrator* and the other function.
 
-## Useful Links
-
-- [Reddit Emotion Analyzer](https://github.com/MaximRouiller/RedditEmotionAnalyzer/)
-- [Durable Functions - API Scraping Node.js](https://github.com/Azure-Samples/durablefunctions-apiscraping-nodejs/)
-- [Durable Functions - API Scraping .Net](https://github.com/Azure-Samples/durablefunctions-apiscraping-dotnet/)
-- [Durable Functions Overview](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-overview?tabs=csharp&WT.mc_id=allaroundazure-blog-marouill)
-- [Durable Functions - Create First C#](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode&WT.mc_id=allaroundazure-blog-marouill)
-- [Durable Functions Overview](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-types-features-overview?WT.mc_id=allaroundazure-blog-marouill)
-- [Durable Functions Orchestration](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-orchestrations?WT.mc_id=allaroundazure-blog-marouill)
-- [Durable Functions Code Constraints](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-code-constraints?WT.mc_id=allaroundazure-blog-marouill)
+### Useful Links
 
 
-- [@MaximRouiller](https://twitter.com/maximrouiller)
-- [Bio](https://developer.microsoft.com/en-us/advocates/maxime-rouiller)
+🔗 [Reddit Emotion Analyzer](https://github.com/MaximRouiller/RedditEmotionAnalyzer/)
 
+🔗 [Durable Functions - API Scraping Node.js](https://github.com/Azure-Samples/durablefunctions-apiscraping-nodejs/)
+
+🔗 [Durable Functions - API Scraping .Net](https://github.com/Azure-Samples/durablefunctions-apiscraping-dotnet/)
+
+🔗 [Durable Functions Overview](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-overview?tabs=csharp&WT.mc_id=allaroundazure-blog-marouill)
+
+🔗 [Durable Functions - Create First C#](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode&WT.mc_id=allaroundazure-blog-marouill)
+
+🔗 [Durable Functions Overview](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-types-features-overview?WT.mc_id=allaroundazure-blog-marouill)
+
+🔗 [Durable Functions Orchestration](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-orchestrations?WT.mc_id=allaroundazure-blog-marouill)
+
+🔗 [Durable Functions Code Constraints](https://docs.microsoft.com/azure/azure-functions/durable/durable-functions-code-constraints?WT.mc_id=allaroundazure-blog-marouill)
+
+
+### Learn more about Maxime Rouiller
+
+🔗 [@MaximRouiller](https://twitter.com/maximrouiller)
+
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/maxime-rouiller)
+
+<br />
 ☁️
