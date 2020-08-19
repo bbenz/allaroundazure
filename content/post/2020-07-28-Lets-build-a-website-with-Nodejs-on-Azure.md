@@ -6,7 +6,7 @@ draft: true
 image: 2020-07-28-Tiemey-Cyren_thumb.jpg
 ---
 
-#### 📺 019 - Tiemey Cyren 🎙️ Frank Boucher
+#### 📺 019 - Tierey Cyren 🎙️ Frank Boucher
 
 <!--more-->
 
