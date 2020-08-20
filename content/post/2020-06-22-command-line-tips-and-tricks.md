@@ -2,7 +2,7 @@
 title: "Command Line Tips and Tricks"
 author: Jason Hand
 date: 2020-06-22
-draft: true
+draft: false
 image: 2020-06-22–Brian-Benz-Command-line-Tips-And-Tricks.jpg
 tags: ["wsl","azure-cli","powershell","cloud shell","remote","Frank Boucher","Brian Benz"]
 ---
