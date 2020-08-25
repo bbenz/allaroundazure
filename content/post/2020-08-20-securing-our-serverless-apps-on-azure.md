@@ -12,6 +12,8 @@ image: 2020-08-20-Dean-Bryen.jpg
 
 {{< video "YouTubeShortCode" >}}
 
+NOTE: The links need changed to blog short codes
+
 Let's take a look at how to secure up our Serverless Applications on Azure. We'll deploy a purposely un-secure app, then we'll wear two hats. First we'll put on our black hat and attack the system to see how an attacker may 'hack' in-secure serverless apps. Then we'll flip over tot he blue team and look at fixing the issues and make our app more robust! 
 
 ### Useful Links
