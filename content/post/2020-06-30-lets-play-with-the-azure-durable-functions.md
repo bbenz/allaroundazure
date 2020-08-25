@@ -2,7 +2,7 @@
 title: "Let's play with the Azure Durable Functions"
 author: Frank Boucher
 date: 2020-06-30
-draft: true
+draft: false
 image: 2020-06-30–Maxime-Rouiller-Lets-Play-With-The-Azure-Durable-Functions.jpg
 tags: ["Durable Functions","Azure Function",".Net","Node.js","Maxime Rouiller","Frank Boucher"]
 ---
