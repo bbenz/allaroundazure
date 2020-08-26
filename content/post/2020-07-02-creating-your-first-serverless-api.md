@@ -2,7 +2,7 @@
 title: "Creating your first serverless API using Azure Functions"
 author: Jason Hand
 date: 2020-07-02
-draft: true
+draft: false
 image: 2020-07-02–BrandonMinnick-allaroundazureindotNET.jpg
 ---
 
@@ -28,7 +28,6 @@ Brandon joins Jason to chat about serverless and build a API endpoint using .NET
 🔗 [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/learn/certifications/exams/az-900?wt.mc_id=allaroundazure-blog-bramin)
 
 🔗 [Figuring Out Azure Functions and Azure Logic Apps](https://techcommunity.microsoft.com/t5/microsoft-ignite-the-tour-2019/figuring-out-azure-functions/m-p/907392?WT.mc_id=allaroundazure-blog-bramin)
-
 
 ### Learn more about Brandon Minnick
 
