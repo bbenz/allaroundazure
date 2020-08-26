@@ -6,7 +6,7 @@ draft: true
 image: 2020-08-06-Cassie-Breviu-ep23.jpg
 ---
 
-#### 📺 030 - Cassie Breviu 🎙️ Jason Hand
+#### 📺 023 - Cassie Breviu 🎙️ Jason Hand
 
 <!--more-->
 

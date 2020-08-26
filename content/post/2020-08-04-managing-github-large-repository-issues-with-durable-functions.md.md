@@ -1,16 +1,22 @@
 ---
-title: "Three Ways to Deploy Your App on Azure"
-author: Jason Hand
-date: 2020-08-10
+title: "Managing GitHub large repository issues with Durable Functions - Part 2"
+author: Frank Boucher
+date: 2020-08-04
 draft: true
-image: 2020-08-10-Jay-Gordon.jpg
+image: 2020-08-04-Jay-Gordon.jpg
 ---
 
-#### 📺 024 - Jay Gordon 🎙️ Jason Hand
+#### 📺 022 - Maxime Rouillier 🎙️ Frank Boucher
 
 <!--more-->
 
 {{< video "a-DkXhwOdas" >}}
+
+Maxime is joining Frank in live stream to continue his cool project. The goal is to managing GitHub large repository issues using the power of Azure Durable Functions.
+
+- Recap
+- Hook Application Insights
+- Deploy to Azure
 
 ### Useful Links
 
