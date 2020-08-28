@@ -2,7 +2,7 @@
 title: "Manage your Hybrid Servers Using Azure Arc"
 author: Frank Boucher
 date: 2020-07-06
-draft: true
+draft: false
 image: 2020-07-06–ThomasMaurer-AzureArc.jpg
 tags: ["Azure Arc","VM","Azure Hybrid","Virtual machine","Thomas Maurer","Frank Boucher"]
 ---
