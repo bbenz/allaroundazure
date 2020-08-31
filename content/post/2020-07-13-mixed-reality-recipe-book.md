@@ -12,14 +12,8 @@ image: 2020-07-13-April-S-Cooking-Book.jpg
 
 {{< video "5UVwGRP_W7k" >}}
 
-🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)
+Having a virtual recipe book can come in handy when you’re in need of a hands-free way to read a recipe while cooking in the kitchen. The app created during this stream uses [Azure Speech Services](https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/?WT.mc_id=allaroundazure-blog-apspeigh) and various UX building blocks within the [Mixed Reality Toolkit (MRTK)](https://aka.ms/hl2importmrtk). Using Azure Speech to Text, voice commands for navigating throughout the app is available in both English and whichever language of choice. The voice command feature of this app can
 
----
-
-Having a virtual recipe book can come in handy when you’re in need of a hands-free way to read a recipe while cooking in the kitchen. The app created during this stream uses Azure Speech Services and various UX building blocks within the Mixed Reality Toolkit (MRTK). Using Azure Speech to Text, voice commands for navigating throughout the app is available in both English and whichever language of choice. The voice command feature of this app can
-
----
 
 ### Useful Links
 
@@ -43,4 +37,12 @@ Having a virtual recipe book can come in handy when you’re in need of a hands-
 
 🔗[Speech to Text: Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/?WT.mc_id=allaroundazure-blog-apspeigh)
 
+
+### Learn more about April Speight
+
+🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
+
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)
+
+<br />
 ☁️
