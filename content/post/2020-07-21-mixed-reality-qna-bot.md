@@ -3,7 +3,7 @@ title: "Mixed Reality QnA Bot"
 author: Frank Boucher
 date: 2020-07-21
 draft: true
-image: BitStreaming.jpeg
+image: 2020-07-21-April-QnA-Bot.jpg
 ---
 
 #### 📺 016 - April Speight 🎙️ Frank Boucher
