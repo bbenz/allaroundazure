@@ -15,11 +15,11 @@ image: 2020-08-06-Cassie-Breviu-ep23.jpg
 
 ### Useful Links
 
-🔗 https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/2-setup-cosmosdb/
+🔗 [Learn Module - Build CosmosDB Application with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/2-setup-cosmosdb/?WT.mc_id=allaroundazure-video-cassieb)
  
-🔗 https://docs.microsoft.com/en-us/azure/cosmos-db/relational-nosql/
+🔗 [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/relational-nosql/?WT.mc_id=allaroundazure-video-cassieb)
  
-🔗 https://docs.microsoft.com/en-us/rest/api/cosmos-db/
+🔗 [Cosmos DB API](https://docs.microsoft.com/en-us/rest/api/cosmos-db/?WT.mc_id=allaroundazure-video-cassieb)
 
 
 ### Learn more about Cassie Breviu
