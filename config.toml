@@ -1,4 +1,4 @@
-baseurl = "https://zealous-coast-0512ee91e.azurestaticapps.net"  # Include trailing slash
+baseurl = "https://blog.allaroundazure.com/"  # Include trailing slash
 title = "All Around Azure"
 theme = "newsroom"
 # author = "Weru"
