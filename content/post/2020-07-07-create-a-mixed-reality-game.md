@@ -2,7 +2,7 @@
 title: "Mixed Reality Game"
 author: Frank Boucher
 date: 2020-07-07
-draft: true
+draft: false
 image: 2020-07-07-April-S-Mixed-Reality-Foreign-Language-Flashcard-Game.jpg
 tags: ["Mixed Reality","HoloLens",".Net","Azure Speech Services", "MRTK","Unity","April Speight","Frank Boucher"]
 ---
@@ -16,7 +16,7 @@ tags: ["Mixed Reality","HoloLens",".Net","Azure Speech Services", "MRTK","Unity"
 
 ---
 
-Language learning with Mixed Reality introduces a new way to master a foreign language. Using gameplay, learners can practice their pronunciation and word/phrase recognition within the comfort of a HoloLens 2. The game created during this stream uses Azure Speech Services and various UX building blocks within the Mixed Reality Toolkit (MRTK). Using Azure Speech to Text, logic is added to the game to validate whether the player accurately pronounces the phrase on the flash card. This experience can be scaled to essentially any language supported by Azure Speech to Text.
+Language learning with Mixed Reality introduces a new way to master a foreign language. Using gameplay, learners can practice their pronunciation and word/phrase recognition within the comfort of a HoloLens 2. The game created during this stream uses [Azure Speech Services](https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/?WT.mc_id=allaroundazure-blog-apspeigh) and various UX building blocks within the [Mixed Reality Toolkit (MRTK)](https://aka.ms/mixedrealitytools). Using Azure Speech to Text, logic is added to the game to validate whether the player accurately pronounces the phrase on the flash card. This experience can be scaled to essentially any language supported by Azure Speech to Text.
 
 ---
 
