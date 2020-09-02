@@ -12,17 +12,24 @@ image: 2020-07-20-John-Papa-Static-website_2.jpg
 
 {{< video "31nFBQg5cAQ" >}}
 
-Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps. Automatically deploy and update a static web application and its API from a GitHub repository.
+---
+
+John Papa is joining Frank to talk about [Azure Static Web Apps documentation](https://docs.microsoft.com/en-ca/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=allaroundazure-blog-jopapa), one of the newest service/product included in Azure. He will explain what it is, what the difference between a "static" and a "regular" website. In short, John will make sure all of us are ready to start playing with Azure Static Web Apps.  
+
+Once we are all at the same level John will publish a Svelte JavaScript app and API with Azure Static Web Apps. Then explain how things work to automatically deploy and update a static web application and its API from a GitHub repository. 
+
+Finally, we will talk about all the security, and provide tons of information, [references]((https://docs.microsoft.com/en-ca/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=allaroundazure-blog-jopapa)) to help you get started.
+
+---
 
 ### Useful Links
 
-🔗 [Azure IoT Hub](https://cda.ms/1tm)
 
-🔗 [Azure Static Web Apps documentation](https://cda.ms/1rR)
+🔗 [Azure Static Web Apps documentation](https://docs.microsoft.com/en-ca/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=allaroundazure-blog-jopapa)
 
 🔗 [GitHub](https://github.com/microsoft/swa-community-kit)
 
-🔗 [Learn Module](https://cda.ms/1rV)
+🔗 [Learn Module: Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/en-ca/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=allaroundazure-blog-jopapa)
 
 🔗 [ShopAtHome Demo](https://www.shopathome.dev/home)
 
@@ -34,11 +41,6 @@ Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Stat
 
 🔗 [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=allaroundazure-blog-jopapa)
 
-🔗 [Azure Static Web Apps documentation](https://cda.ms/1rS)
-
-🔗 [GitHub](https://github.com/microsoft/swa-community-kit)
-
-🔗 [Learn Module](https://cda.ms/1rT)
 
 ### Learn more about John Papa
 

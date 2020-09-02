@@ -12,19 +12,13 @@ image: 2020-07-21-April-QnA-Bot.jpg
 
 {{< video "change_me" >}}
 
-
-🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)
-
 ---
 
-Creating educational experiences with Mixed Reality can provide educators the ability to share holographic replicas of real-world objects without stepping foot outside the classroom. In this stream, we'll take a look at Monumental World Tour, an interactive HoloLens 2 app created with MRTK which displays monuments from around the world and includes facts about each monument. The app created during this stream uses QnA Maker to create a knowledge base of facts about each monument. Using the Azure Bot Service, the knowledge base is connected to a bot with a Direct Line Speech channel.
+Creating educational experiences with [Mixed Reality](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html) can provide educators the ability to share holographic replicas of real-world objects without stepping foot outside the classroom. In this stream, we'll take a look at Monumental World Tour, an interactive HoloLens 2 app created with MRTK which displays monuments from around the world and includes facts about each monument. The app created during this stream uses [QnA Maker](https://www.qnamaker.ai/) to create a knowledge base of facts about each monument. Using the Azure Bot Service, the knowledge base is connected to a bot with a Direct Line Speech channel.
 
 ---
 
 ### Useful Links
-
-🔗 [Azure IoT Hub](https://cda.ms/1tm)
 
 🔗 [Getting started with MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
 
@@ -36,7 +30,7 @@ Creating educational experiences with Mixed Reality can provide educators the ab
 
 🔗 [Windows Device Portal – HoloLens](https://aka.ms/windowsdeviceportal-hololen)
 
-🔗 [QnA Maker](https://www.qnamaker.ai/)
+🔗 [QnA Maker](https://www.qnamaker.ai/?WT.mc_id=allaroundazure-blog-apspeigh)
 
 🔗 [Interact with a bot in C# Unity](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/csharp/unity/VirtualAssistantPreview)
 
@@ -44,4 +38,12 @@ Creating educational experiences with Mixed Reality can provide educators the ab
 
 🔗 [Microsoft Learn - QnA Bot](https://aka.ms/learnqnabot)
 
+
+### Learn more about April Speight
+
+🔗 [@VogueAndCode](https://twitter.com/vogueandcode)
+
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/april-speight)
+
+<br />
 ☁️
