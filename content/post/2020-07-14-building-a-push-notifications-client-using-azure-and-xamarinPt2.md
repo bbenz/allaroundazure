@@ -16,27 +16,33 @@ tags: ["Push Notifications","Xamarin","Android","Laurent Bugnion","Frank Boucher
 
 ---
 
-Coming...
+In this episode, Laurent is joining Frank to continue working on the cross-platform Notifications client project that uses Xamarin and Azure. 
+
+This time they will configure the [Windows Push Notification Services](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview?WT.mc_id=allaroundazure-blog-lbugnion), the same role as the Google FireBase, configured in the previous episode, but on the Windows side. This will act as our backend service to send a notification to Windows devices... like Surfaces, PCs, and ... Windows phones ;) 
+
+Then Laurent will show us how to create the [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/?WT.mc_id=allaroundazure-blog-lbugnion). This piece being useful as everything sent to the hub will be dispatch to the other systems.
+
+And finally, they will test this new scenario.
 
 ---
 
 ### Useful Links
 
-🔗 [Windows Push Notification Services](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview)
+🔗 [Windows Push Notification Services](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview?WT.mc_id=allaroundazure-blog-lbugnion)
 
-🔗 [Notification Hubs Windows Store .NET Get Started Push Notifications](https://docs.microsoft.com/en-us/azure/notification-hubs/)
+🔗 [Notification Hubs Windows Store .NET Get Started Push Notifications](https://docs.microsoft.com/en-us/azure/notification-hubs/?WT.mc_id=allaroundazure-blog-lbugnion)
 
-🔗 [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/)
+🔗 [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/?WT.mc_id=allaroundazure-blog-lbugnion)
 
-🔗 [Create Notification Hub Portal](https://docs.microsoft.com/en-us/azure/notification-hubs/create-notification-hub-portal)
+🔗 [Create Notification Hub Portal](https://docs.microsoft.com/en-us/azure/notification-hubs/create-notification-hub-portal?WT.mc_id=allaroundazure-blog-lbugnion)
 
-🔗 [Notification Hubs](https://azure.microsoft.com/en-us/services/notification-hubs/)
+🔗 [Notification Hubs](https://azure.microsoft.com/en-us/services/notification-hubs/?WT.mc_id=allaroundazure-blog-lbugnion)
 
-🔗 [Notification Hubs Pricing](https://azure.microsoft.com/en-us/pricing/details/notification-hubs/)
+🔗 [Notification Hubs Pricing](https://azure.microsoft.com/en-us/pricing/details/notification-hubs/?WT.mc_id=allaroundazure-blog-lbugnion)
 
-🔗 [Badges](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/badges)
+🔗 [Badges](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/badges?WT.mc_id=allaroundazure-blog-lbugnion)
 
-🔗 [Adaptive Interactive Toasts](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/adaptive-interactive-toasts)
+🔗 [Adaptive Interactive Toasts](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/adaptive-interactive-toasts?WT.mc_id=allaroundazure-video-lbugnion)
 
 
 ### Learn more about Laurent Bugnion
@@ -46,4 +52,5 @@ Coming...
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/laurent_bugnion)
 
 <br />
+
 ☁️
