@@ -2,7 +2,7 @@
 title: "Mixed Reality Recipe Book"
 author: Frank Boucher
 date: 2020-07-13
-draft: true
+draft: false
 image: 2020-07-13-April-S-Cooking-Book.jpg
 tags: ["Mixed Reality","HoloLens",".Net","Azure Speech Services", "MRTK","Unity","April Speight","Frank Boucher"]
 ---

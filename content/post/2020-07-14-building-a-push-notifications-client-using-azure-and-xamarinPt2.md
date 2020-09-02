@@ -4,6 +4,7 @@ author: Frank Boucher
 date: 2020-07-14
 draft: true
 image: 2020-07-14–Laurent-Bugnion-Part2.jpg
+tags: ["Push Notifications","Xamarin","Android","Laurent Bugnion","Frank Boucher"]
 ---
 
 #### 📺 013 - Laurent Bugnion 🎙️ Frank Boucher
@@ -12,8 +13,6 @@ image: 2020-07-14–Laurent-Bugnion-Part2.jpg
 
 {{< video "9jiNZDsyy9Y" >}}
 
-🔗 [@LBugnion](https://twitter.com/lbugnion)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/laurent_bugnion)
 
 ---
 
@@ -25,7 +24,7 @@ Coming...
 
 🔗 [Windows Push Notification Services](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview)
 
-🔗 [Notification Hubs Windows Store .NET Get Started Push Notifications](https://docs.microsoft.com/en-us/azure/notification-hubs/)notification-hubs-windows-store-dotnet-get-started-wns-push-notification
+🔗 [Notification Hubs Windows Store .NET Get Started Push Notifications](https://docs.microsoft.com/en-us/azure/notification-hubs/)
 
 🔗 [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/)
 
@@ -39,4 +38,12 @@ Coming...
 
 🔗 [Adaptive Interactive Toasts](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/adaptive-interactive-toasts)
 
+
+### Learn more about Laurent Bugnion
+
+🔗 [@LBugnion](https://twitter.com/lbugnion)
+
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/laurent_bugnion)
+
+<br />
 ☁️
