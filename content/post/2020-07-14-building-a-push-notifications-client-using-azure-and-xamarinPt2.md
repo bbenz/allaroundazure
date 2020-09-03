@@ -2,7 +2,7 @@
 title: "Building a Notifications client with Xamarin and Azure: Extending the infrastructure to Windows and adding the Notification Hub - Part 2"
 author: Frank Boucher
 date: 2020-07-14
-draft: true
+draft: false
 image: 2020-07-14–Laurent-Bugnion-Part2.jpg
 tags: ["Push Notifications","Xamarin","Android","Laurent Bugnion","Frank Boucher"]
 ---
