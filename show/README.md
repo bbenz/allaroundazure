@@ -2,7 +2,7 @@
 
 A twice-a-week live simulcast across Twitch, Learn TV, and more that covers topics specifically about Azure. With guests such as Cloud Advocates, MVPs, and Product Representatives the content will reference related documentation and Learn modules.
 
-Each episode is unique and provides numerous touch points and artifacts such as: 
+Each episode is unique and provides numerous touch points and artifacts such as:
 
 1. Twitch Stream (live)
 2. Twitch Highlights (limited time)
@@ -72,5 +72,3 @@ Example: Every guest needs to reference a Learn Module. A segment that focuses s
 [From Wikipedia](https://en.wikipedia.org/wiki/Learning_pyramid)
 
 ![pyramid](https://upload.wikimedia.org/wikipedia/commons/3/3d/Edgar_Dale%27s_cone_of_learning.png)
-
-
