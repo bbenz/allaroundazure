@@ -32,7 +32,7 @@ Break the audience down and imagine a typical viewer.
 
 If we were to describe our ideal target audience, what would that be?
 
-> example - **Candace, age 36, from North America**
+> example : **Candace, age 36, from North America**
 > - **Likes:** Open Source, Python, Artificial Intelligence
 > - **Dislikes:** Process, bureaucracy, Windows PC 
 > - **Watches:** Twitch, YouTube, LinkedIn Learning
@@ -40,7 +40,7 @@ If we were to describe our ideal target audience, what would that be?
 
 ## Measuring Success
 
-How do we know if our efforts are impacting important OKRs? Are we driving monthly active users? Are we building a presence and a brand? Are we experimenting? What defines success and how should we measure it? 
+How do we know if our efforts are impacting important OKRs? Are we driving monthly active users? Are we building a presence and a brand? Are we experimenting? What defines success and how should we measure it?
 
 ## Production Requirements
 
@@ -59,16 +59,61 @@ How do we know if our efforts are impacting important OKRs? Are we driving month
   - [ ] Microsoft Developer Twitch account and dashboard
   - [ ] Unique streaming key for **"All Around Azure"**
 
+## Submission Process
+
+- Guest [submits information to form](https://jhand.dev/aaa-submission)
+
 ### Ideas
 
-By including short segments throughout the 90 minutes we inherently create specified "breaks" in the program. This will allow us to edit and create additional content in the form of short videos and promotional materials. Additionally we can specify more on what type of content we want to cover. 
-Example: Every guest needs to reference a Learn Module. A segment that focuses specifically on the learn module will highlight it and provide unique and shorter content. Maybe a game can be made that pits the guest against some of our viewers.
+Below are the degrees of retention induced from various type of learning.
 
-- Azure Dictionary Segments
-  - Encourage CA's to create "commercials"
+|**Retention rate**|**Learning activity before test of knowledge**|
+|---|---|
+|**90%**|Teach someone else/use immediately|
+|**75%**|Practice what one learned|
+|**50%**|Engaged in a group discussion|
+|**30%**|Watch a demonstration|
+|**20%**|Watch audiovisual|
+|**10%**|Reading|
+|**5%**|Listening to a lecture|
+
+Read, Hear, See, Say, Write, Do
+
+How can we guide the audience through each of these?
 
 #### Learning Pyramid
 
 [From Wikipedia](https://en.wikipedia.org/wiki/Learning_pyramid)
 
 ![pyramid](https://upload.wikimedia.org/wikipedia/commons/3/3d/Edgar_Dale%27s_cone_of_learning.png)
+
+#### Read
+
+10%
+
+#### Hear
+
+20%
+
+#### See
+
+30%
+
+#### Say
+
+50%
+
+#### Write
+
+70%
+
+#### Do
+
+90%
+
+By including short segments throughout the 90 minutes we inherently create specified "breaks" in the program. This will allow us to edit and create additional content in the form of short videos and promotional materials. Additionally we can specify more on what type of content we want to cover.
+
+Example: Every guest needs to reference a Learn Module. A segment that focuses specifically on the learn module will highlight it and provide unique and shorter content. Maybe a game can be made that pits the guest against some of our viewers.
+
+- Azure Dictionary Segments
+  - Encourage CA's to create "commercials"
