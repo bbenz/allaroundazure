@@ -2,7 +2,7 @@
 title: "Mixed Reality QnA Bot"
 author: Frank Boucher
 date: 2020-07-21
-draft: true
+draft: false
 image: 2020-07-21-April-QnA-Bot.jpg
 ---
 
