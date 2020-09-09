@@ -12,7 +12,11 @@ image: 2020-07-27-Erik St-Martin.jpg
 
 {{< video "P0GC698GV-I" >}}
 
-TBD
+So many are talking about containers and Docker. But why should we use them? In wish scenario could we prefer containers instead of Virtual Machine (VM) or Platform as a Service (PaaS)? In this episode Erik join Frank to demystify the containers and shows how to use them in Azure.
+
+We will start by creating a very simple application, in this case it will be with Go but it's doesn't matter in this case. Then we will containerize it with Docker.
+
+Once a light version of the application was available in a container Erik show us how to deploy it into Azure. We create a Azure Container Registry and then use it to deploy in Azure Container Instance and [inside a webapp](https://docs.microsoft.com/en-ca/azure/app-service/tutorial-custom-container?pivots=container-linux&WT.mc_id=allaroundazure-blog-St.Erik).
 
 ---
 
