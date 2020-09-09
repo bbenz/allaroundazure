@@ -39,6 +39,7 @@ We'll make a little Pomodoro timer. Should it be a VSCode extension? A browser
 ### Learn more on Jasmine Greenaway
 
 🔗 [@Paladique](https://twitter.com/paladique)
+
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/jasmine-greenaway)
 
 ☁️
