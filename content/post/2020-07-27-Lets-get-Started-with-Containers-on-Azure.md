@@ -2,7 +2,7 @@
 title: "Let's get Started with Containers on Azure"
 author: Frank Boucher
 date: 2020-07-27
-draft: true
+draft: false
 image: 2020-07-27-Erik St-Martin.jpg
 ---
 
