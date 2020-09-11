@@ -10,8 +10,13 @@ image: 2020-08-06-Cassie-Breviu.jpg
 
 <!--more-->
 
-{{< video "YouTubeShortCode" >}}
+{{< video "GFe2doTZhbk" >}}
 
+---
+
+The intend of this episode is to introduce the NoSQL and understand the difference with more conventional the relational databases.  Cassie will of course started by explaining the basic and than show and it can be used using Cosmo DB in Azure.
+
+---
 
 ### Useful Links
 
