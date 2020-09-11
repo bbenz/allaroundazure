@@ -18,15 +18,15 @@ In this episode, Christina Warren joins Jason as they discuss ways of updating y
 
 ### Useful Links
 
-🔗[Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=allaroundazure-video-chwarren)
+🔗[Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=allaroundazure-blog-chwarren)
 
-🔗 [Statice Web Apps - Overview](https://docs.microsoft.com/en-us/azure/static-web-apps/overview/?WT.mc_id=allaroundazure-video-chwarren)
+🔗 [Statice Web Apps - Overview](https://docs.microsoft.com/en-us/azure/static-web-apps/overview/?WT.mc_id=allaroundazure-blog-chwarren)
 
-🔗 [Azure Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website/?WT.mc_id=allaroundazure-video-chwarren)
+🔗 [Azure Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website/?WT.mc_id=allaroundazure-blog-chwarren)
 
-🔗 [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html/?WT.mc_id=allaroundazure-video-chwarren)
+🔗 [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html/?WT.mc_id=allaroundazure-blog-chwarren)
 
-🔗 [Publish App Services with the Static Web App API](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=allaroundazure-video-chwarren)
+🔗 [Publish App Services with the Static Web App API](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=allaroundazure-blog-chwarren)
 
 
 ---
