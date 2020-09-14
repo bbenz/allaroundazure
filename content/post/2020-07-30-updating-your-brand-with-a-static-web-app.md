@@ -2,7 +2,7 @@
 title: "Updating Your Brand With a Static Web Application"
 author: Jason Hand
 date: 2020-07-30
-draft: true
+draft: false
 image: 2020-07-30-Christina-Warren_Thumb.jpg
 ---
 

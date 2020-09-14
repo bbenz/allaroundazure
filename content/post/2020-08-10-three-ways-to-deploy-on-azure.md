@@ -12,6 +12,12 @@ image: 2020-08-10-Jay-Gordon.jpg
 
 {{< video "a-DkXhwOdas" >}}
 
+---
+
+Description: Join Jay Gordon and Jason works together to use VM, containers, and app services to deploy a stateless application . We'll provide you with the code and methods to do it on your own.
+
+---
+
 ### Useful Links
 
 🔗 [Azure Fundamentals on Learn : AZ-900 on Learn](https://cda.ms/1wy)
