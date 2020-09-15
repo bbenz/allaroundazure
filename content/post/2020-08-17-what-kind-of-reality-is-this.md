@@ -12,6 +12,13 @@ image: 2020-08-17-Aysegul-Yonet.jpg
 
 {{< video "UOu3DrP9UDI" >}}
 
+---
+
+
+
+---
+
+
 ### Useful Links
 
 🔗 [Azure Free Account](https://bit.ly/ASAFreeAccount)
