@@ -1,9 +1,9 @@
 ---
-title: "Coding Python: Deploy Django and Postgres Apps to Azure with VS Code"
+title: "Coding Python: Deploy Django Apps to Azure with VS Code"
 author: Frank Boucher
 date: 2020-08-11
 draft: true
-image: BitStreaming.jpeg
+image: 2020-08-11-Nina-Zakharenko.jpg
 ---
 
 #### 📺 025 - Nina Zakharenko 🎙️ Frank Boucher
