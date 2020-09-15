@@ -2,7 +2,7 @@
 title: "Building a Notifications client with Xamarin and Azure: Adding the Azure Functions endpoint - Part 3"
 author: Frank Boucher
 date: 2020-08-03
-draft: true
+draft: false
 image: 2020-08-03-Laurent-Bugnion_Part3.jpg
 ---
 
