@@ -14,7 +14,7 @@ image: 2020-08-10-Jay-Gordon.jpg
 
 ---
 
-Description: Join Jay Gordon and Jason works together to use VM, containers, and app services to deploy a stateless application . We'll provide you with the code and methods to do it on your own.
+Join Jay Gordon and Jason works together to use VM, containers, and app services to deploy a stateless application . We'll provide you with the code and methods to do it on your own.
 
 ---
 
@@ -32,11 +32,13 @@ Description: Join Jay Gordon and Jason works together to use VM, containers, and
 
 🔗 [Creating Virtual Machines](https://cda.ms/1wH)
 
+
 ### Learn more about Jay Gordon
 
-🔗 [@Twitter_Name](https://twitter.com/jaydestro)
+🔗 Twitter: [@jaydestro](https://twitter.com/jaydestro)
 
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/jay-gordon)
+
 
 ### Find Us On
 
