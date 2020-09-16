@@ -8,8 +8,6 @@ image: BitStreaming.jpeg
 
 #### 📺 035 - Michael Jolley 🎙️ Frank Boucher
 
-2020-09-07-building-azure-function-powered-video-chat
-
 <!--more-->
 
 {{< video "m6GTyJMsSQI" >}}

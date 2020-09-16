@@ -2,7 +2,7 @@
 title: "Managing GitHub large repository issues with Durable Functions - Part 2"
 author: Frank Boucher
 date: 2020-08-04
-draft: true
+draft: false
 image: 2020-08-04-Maxime-Rouiller.jpg
 ---
 
