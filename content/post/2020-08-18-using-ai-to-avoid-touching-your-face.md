@@ -3,7 +3,7 @@ title: "Using AI to avoid touching your face"
 author: Frank Boucher
 date: 2020-08-18
 draft: true
-image: 2020-08-18-Em-Lazer-Walker.jpg
+image: 2020-08-18-em-lazer-walker.jpg
 ---
 
 #### 📺 028 - Aysegul Yonet 🎙️ Frank Boucher

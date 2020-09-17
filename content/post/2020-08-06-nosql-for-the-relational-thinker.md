@@ -2,7 +2,7 @@
 title: "NOSQL For the Relational Thinker"
 author: Jason Hand
 date: 2020-08-06
-draft: true
+draft: false
 image: 2020-08-06-Cassie-Breviu.jpg
 ---
 
