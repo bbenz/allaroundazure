@@ -14,7 +14,7 @@ image: 2020-08-17-Aysegul-Yonet.jpg
 
 ---
 
-
+Did you know that there multiple type of virtual reality? In this episode of All Around Azure 
 
 ---
 
@@ -49,20 +49,14 @@ image: 2020-08-17-Aysegul-Yonet.jpg
 
 🔗 [Anchors Way Finding](http://bit.ly/AnchorsWayFinding)
 
+
+
 ## Guest:  Ayşegül Yönet
+
 🔗 [Twitter](https://twitter.com/AysSomething)
+
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/aysegul-yonet)
 
-## Find us on
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
-
-### Learn more about Cassie Breviu
-
-🔗 [@CassieView](https://twitter.com/cassieview)
-
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/cassie-breviu)
 
 ### Find Us On
 
