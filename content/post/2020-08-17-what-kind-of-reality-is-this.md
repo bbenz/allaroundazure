@@ -14,60 +14,55 @@ image: 2020-08-17-Aysegul-Yonet.jpg
 
 ---
 
+Did you know that there multiple types of virtual reality? In this episode of All Around Azure Aysegul join Frank to explains what are virtual reality, augmented reality, some other also known as XR.
 
+After a few demonstrations from Aysegul, she will explain some of the challenges creators could encounter in this field. Fortunately, there are many different tools available to help to learn and creating solutions in XR.
 
 ---
 
 
 ### Useful Links
 
-🔗 [Azure Free Account](https://bit.ly/ASAFreeAccount)
+🔗 [Azure Free Account](https://azure.microsoft.com/en-us/free/?WT.mc_id=allaroundazure-blog-ayyonet)
 
-🔗 [HoloLens Unreal Development Overview](http://bit.ly/HoloLensUnrealDev)
+🔗 [HoloLens Unreal Development Overview](https://docs.microsoft.com/en-ca/windows/mixed-reality/develop/unreal/unreal-development-overview?WT.mc_id=allaroundazure-blog-ayyonet&tabs=mrtk%2Casa)
 
-🔗 [Mixed Reality UX Tools for Unreal](https://bit.ly/MRUXToolsUnreal)
+🔗 [Mixed Reality UX Tools for Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal?WT.mc_id=allaroundazure-blog-ayyonet)
 
-🔗 [Unreal Performance Settings](https://bit.ly/UnrealPerformance)
+🔗 [Unreal Performance Settings](https://docs.microsoft.com/en-ca/windows/mixed-reality/develop/unreal/performance-recommendations-for-unreal?WT.mc_id=allaroundazure-blog-ayyonet)
 
-🔗 [30 Days of Unreal Twitch Stream](https://bit.ly/30DaysOfUnreal)
+🔗 [30 Days of Unreal Twitch Stream](https://github.com/Yonet/30DaysOfUnrealEngine)
 
-🔗 [Mixed Reality Unreal Samples](https://bit.ly/MixedRealityUnrealSamples)
+🔗 [Mixed Reality Unreal Samples](https://github.com/microsoft/MixedReality-Unreal-Samples?WT.mc_id=allaroundazure-blog-ayyonet)
 
-🔗 [Mixed Reality Curriculum](https://aka.ms/MixedRealityCurriculum)
+🔗 [Mixed Reality Curriculum](https://yonet.gitbook.io/mixed-reality-docs/-LyabGI7hCYwXIO2T9sV/)
 
-🔗 [Mixed Reality Resources](https://bit.ly/mixedrealityresources)
 
-### Azure Spatial Anchors
+#### Azure Spatial Anchors
 
-🔗 [ASADocumentation](http://bit.ly/AzureSpatialAnchors)
+🔗 [ASADocumentation](https://docs.microsoft.com/en-us/azure/spatial-anchors/?WT.mc_id=allaroundazure-blog-ayyonet)
 
-🔗 [Azure Spatial Anchors Releases](http://bit.ly/ASAReleases)
+🔗 [Azure Spatial Anchors Releases](https://github.com/Azure/azure-spatial-anchors-samples/releases)
 
-🔗 [Azure Spatial Anchors Samples](http://bit.ly/AzureSpatialAnchorsSamples)
+🔗 [Azure Spatial Anchors Samples](https://github.com/Azure/azure-spatial-anchors-samples)
 
-🔗 [Anchors Best Practices](http://bit.ly/AnchorsBestPractices)
+🔗 [Anchors Best Practices](https://docs.microsoft.com/en-ca/azure/spatial-anchors/concepts/guidelines-effective-anchor-experiences?WT.mc_id=allaroundazure-blog-ayyonet)
 
-🔗 [Anchors Way Finding](http://bit.ly/AnchorsWayFinding)
+🔗 [Anchors Way Finding](https://docs.microsoft.com/en-ca/azure/spatial-anchors/concepts/anchor-relationships-way-finding?WT.mc_id=allaroundazure-blog-ayyonet)
 
-## Guest:  Ayşegül Yönet
+
+
+## Learn more about Ayşegül Yönet
+
 🔗 [Twitter](https://twitter.com/AysSomething)
+
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/aysegul-yonet)
 
-## Find us on
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
-
-### Learn more about Cassie Breviu
-
-🔗 [@CassieView](https://twitter.com/cassieview)
-
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/cassie-breviu)
 
 ### Find Us On
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
 
-🔗 [Twitter](https://twitter.com/jasonhand)
+🔗 [Twitter](https://twitter.com/fboucheros)
 
 ☁️

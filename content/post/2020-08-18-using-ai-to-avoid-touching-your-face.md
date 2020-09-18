@@ -6,61 +6,52 @@ draft: true
 image: 2020-08-18-em-lazer-walker.jpg
 ---
 
-#### 📺 028 - Aysegul Yonet 🎙️ Frank Boucher
+#### 📺 028 - Em Lazer Walker 🎙️ Frank Boucher
 
 <!--more-->
 
-{{< video "UOu3DrP9UDI" >}}
+{{< video "ZdSFIUeJ2gk" >}}
+
+---
+
+In this episode, Em is showing one of her last projects. She trained a machine learning model using Azure Custom Vision to detect when someone, facing the camera, is touching or not their face. All this project is also available in [GitHub](https://github.com/lazerwalker/dont-touch-your-face).
+
+Em will starts by explaining what a good machine learning model, and explain why the one use, in this case, is only "good enough for a demo".  We will cover different options available when building your model and the scenarios when those options should be used. Once created, we will train our brand new model using many images of faces for both of the scenarios: touching and not touching. 
+
+The second part of this demo is composed of a JavaScript webapp. We will walk through the code that does all the operations to grab an image from the video feed and send it to the [Custom Vision](https://azure.microsoft.com/en-ca/services/cognitive-services/custom-vision-service/?WT.mc.id=allaroundazure-blog-emwalker) service.
+
+Finally, she will share a VR project, inspired by the Microsoft Flight simulator (coming out that day), that use the [Bing map service](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api?WT.mc.id=allaroundazure-blog-emwalker) to let us fly in any sky around the globe.
+
+---
 
 ### Useful Links
 
-🔗 [Azure Free Account](https://bit.ly/ASAFreeAccount)
+🔗 [Custom Vision](https://azure.microsoft.com/en-ca/services/cognitive-services/custom-vision-service/?WT.mc.id=allaroundazure-blog-emwalker)
 
-🔗 [HoloLens Unreal Development Overview](http://bit.ly/HoloLensUnrealDev)
+🔗 [Custom Vision Quickstart](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier?WT.mc.id=allaroundazure-blog-emwalker)
 
-🔗 [Mixed Reality UX Tools for Unreal](https://bit.ly/MRUXToolsUnreal)
+🔗 [How YOU Can Use Computer Vision to Avoid Touching Your Face!](https://lzrwlkr.me/dont-touch-your-face-writeup)
 
-🔗 [Unreal Performance Settings](https://bit.ly/UnrealPerformance)
+🔗 [Don't Touch Your Face app](https://lazerwalker.com/dont-touch-your-face)
 
-🔗 [30 Days of Unreal Twitch Stream](https://bit.ly/30DaysOfUnreal)
+🔗 [Don't Touch Your Face code](https://github.com/lazerwalker/dont-touch-your-face) 
 
-🔗 [Mixed Reality Unreal Samples](https://bit.ly/MixedRealityUnrealSamples)
+🔗 [Bing Map Service](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api?WT.mc.id=allaroundazure-blog-emwalker)
 
-🔗 [Mixed Reality Curriculum](https://aka.ms/MixedRealityCurriculum)
 
-🔗 [Mixed Reality Resources](https://bit.ly/mixedrealityresources)
+### Learn more about Em Lazer Walker
 
-### Azure Spatial Anchors
+🔗 Twitter: [@lazerwalker](https://twitter.com/lazerwalker)
 
-🔗 [ASADocumentation](http://bit.ly/AzureSpatialAnchors)
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/em-lazerwalker)
 
-🔗 [Azure Spatial Anchors Releases](http://bit.ly/ASAReleases)
 
-🔗 [Azure Spatial Anchors Samples](http://bit.ly/AzureSpatialAnchorsSamples)
-
-🔗 [Anchors Best Practices](http://bit.ly/AnchorsBestPractices)
-
-🔗 [Anchors Way Finding](http://bit.ly/AnchorsWayFinding)
-
-## Guest:  Ayşegül Yönet
-🔗 [Twitter](https://twitter.com/AysSomething)
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/aysegul-yonet)
 
 ## Find us on
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-🔗 [Twitter](https://twitter.com/fboucheros)
 
-### Learn more about Cassie Breviu
+🔗 Twitter: [@fboucheros](https://twitter.com/fboucheros)
 
-🔗 [@CassieView](https://twitter.com/cassieview)
-
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/cassie-breviu)
-
-### Find Us On
-
-📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
-
-🔗 [Twitter](https://twitter.com/jasonhand)
 
 ☁️
