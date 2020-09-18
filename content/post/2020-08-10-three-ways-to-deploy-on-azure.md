@@ -2,7 +2,7 @@
 title: "Three Ways to Deploy Your App on Azure"
 author: Jason Hand
 date: 2020-08-10
-draft: true
+draft: false
 image: 2020-08-10-Jay-Gordon.jpg
 ---
 
