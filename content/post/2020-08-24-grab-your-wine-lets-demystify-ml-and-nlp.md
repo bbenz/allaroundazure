@@ -10,7 +10,7 @@ image: 2020-08-24-Cassie-Breviu-ep30.jpg
 
 <!--more-->
 
-{{< video "YouTubeShortCode" >}}
+{{< video "i0vk-nKVGvo" >}}
 
 In this episode we will learn how to use Machine Learning to predict wine prices, points, and variety from the text description. 
 
