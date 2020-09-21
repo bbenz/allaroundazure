@@ -3,7 +3,8 @@ title: "What Kind of Reality is This?"
 author: Frank Boucher
 date: 2020-08-17
 draft: true
-image: 2020-08-17-Aysegul-Yonet.jpg
+image: 2020-08-17-aysegul-yonet.jpg
+
 ---
 
 #### 📺 027 - Aysegul Yonet 🎙️ Frank Boucher
