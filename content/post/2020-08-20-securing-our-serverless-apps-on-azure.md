@@ -10,7 +10,7 @@ image: 2020-08-20-Dean-Bryen.jpg
 
 <!--more-->
 
-{{< video "YouTubeShortCode" >}}
+{{< video "X7KJGoOjrVI" >}}
 
 NOTE: The links need changed to blog short codes
 
@@ -27,7 +27,7 @@ Let's take a look at how to secure up our Serverless Applications on Azure. We'l
 
 ### Learn more about Dean Bryen
 
-🔗 [@Twitter_Name](https://twitter.com/deanbryen)
+🔗 Twitter: [@deanbryen](https://twitter.com/deanbryen)
 
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/dean-bryen)
 
@@ -38,6 +38,6 @@ Let's take a look at how to secure up our Serverless Applications on Azure. We'l
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
 
-🔗 [Twitter](https://twitter.com/jasonhand)
+🔗 Twitter: [@jasonhand](https://twitter.com/jasonhand)
 
 ☁️

@@ -2,7 +2,7 @@
 title: "Three Ways to Deploy Your App on Azure"
 author: Jason Hand
 date: 2020-08-10
-draft: true
+draft: false
 image: 2020-08-10-Jay-Gordon.jpg
 ---
 
@@ -14,7 +14,7 @@ image: 2020-08-10-Jay-Gordon.jpg
 
 ---
 
-Join Jay Gordon and Jason works together to use VM, containers, and app services to deploy a stateless application . We'll provide you with the code and methods to do it on your own.
+Join Jay Gordon and Jason who works together to use VM, containers, and app services to deploy a stateless application. We'll provide you with the code and methods to do it on your own.
 
 ---
 
