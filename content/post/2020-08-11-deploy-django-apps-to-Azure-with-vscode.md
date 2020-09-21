@@ -2,7 +2,7 @@
 title: "Coding Python: Deploy Django Apps to Azure with VS Code"
 author: Frank Boucher
 date: 2020-08-11
-draft: true
+draft: false
 image: 2020-08-11-Nina-Zakharenko.jpg
 ---
 
