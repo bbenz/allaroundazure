@@ -32,9 +32,9 @@ Along the way, we'll explore a number of tools and resources to assist developer
 
 ### Learn more about Guest Name
 
-🔗 [@Twitter_Name](https://twitter.com/bborges)
+🔗 [@BrunoBorges](https://twitter.com/brunoborges)
 
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/bruno-borges)
+🔗 [Bruno's Bio](https://developer.microsoft.com/en-us/advocates/bruno-borges)
 
 ### Find Us On
 
