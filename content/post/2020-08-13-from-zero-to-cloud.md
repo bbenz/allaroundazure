@@ -18,17 +18,17 @@ Along the way, we'll explore a number of tools and resources to assist developer
 
 ### Useful Links
 
-🔗 [Java Tutorial](https://cda.ms/1xr)
+🔗 [Java Tutorial](https://code.visualstudio.com/docs/languages/java?WT.mc_id=allaroundazure-blog-brborges)
 
 🔗 [Spring Initializer](http://start.spring.io/)
 
 🔗 [GrallVM](https://www.graalvm.org/)
 
-🔗 [Java on Azure](https://cda.ms/1xr)
+🔗 [Java on Azure](https://code.visualstudio.com/docs/languages/java?WT.mc_id=allaroundazure-blog-brborges)
 
-🔗 [Azure for Java developer documentation](https://cda.ms/1xt)
+🔗 [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/?WT.mc_id=allaroundazure-blog-brborges)
 
-🔗 Azure Functions Java developer guide: https://cda.ms/1xv
+🔗 [Azure Functions Java developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-java?tabs=consumption&WT.mc_id=allaroundazure-blog-brborges)
 
 ### Learn more about Guest Name
 
