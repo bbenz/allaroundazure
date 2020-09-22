@@ -2,7 +2,7 @@
 title: "From Zero to Cloud in Java"
 author: Jason Hand
 date: 2020-08-13
-draft: true
+draft: false
 image: 2020-08-13-Bruno-Borges.jpg
 ---
 
