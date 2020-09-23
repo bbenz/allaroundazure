@@ -2,7 +2,7 @@
 title: "What Kind of Reality is This?"
 author: Frank Boucher
 date: 2020-08-17
-draft: true
+draft: false
 image: 2020-08-17-aysegul-yonet.jpg
 
 ---
@@ -55,7 +55,7 @@ After a few demonstrations from Aysegul, she will explain some of the challenges
 
 ## Learn more about Ayşegül Yönet
 
-🔗 [Twitter](https://twitter.com/AysSomething)
+🔗 Twitter: [@AysSomething](https://twitter.com/AysSomething)
 
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/aysegul-yonet)
 
@@ -64,6 +64,6 @@ After a few demonstrations from Aysegul, she will explain some of the challenges
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
 
-🔗 [Twitter](https://twitter.com/fboucheros)
+🔗 Twitter: [@fboucheros](https://twitter.com/fboucheros)
 
 ☁️
