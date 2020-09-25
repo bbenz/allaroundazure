@@ -25,22 +25,22 @@ After we build our models I will show how we deployed them using Azure functions
 ### Useful Links
 
 #### Learn
-🔗 [Build AI solutions with Azure Machine Learning](https://cda.ms/1yz)
+🔗 [Build AI solutions with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=allaroundazure-blog-cassieb)
 
-🔗 [Create no-code predictive models with Azure Machine Learning](https://cda.ms/1yB)
+🔗 [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=allaroundazure-blog-cassieb)
 
-🔗 [Create machine learning models](https://cda.ms/1yC)
+🔗 [Create machine learning models](https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/?WT.mc_id=allaroundazure-blog-cassieb)
 
-🔗 [Introduction to Azure Machine Learning](https://cda.ms/1yD)
+🔗 [Introduction to Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/?WT.mc_id=allaroundazure-blog-cassieb)
 
 #### Docs:
-🔗 [What is Azure Machine Learning designer](https://cda.ms/1yF)
+🔗 [What is Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=allaroundazure-blog-cassieb)
 
-🔗 [Azure Machine Learning documentation](https://cda.ms/1yG)
+🔗 [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/?WT.mc_id=allaroundazure-blog-cassieb)
 
-🔗 [What is Azure Machine Learning?](https://cda.ms/1yH)
+🔗 [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=allaroundazure-blog-cassieb)
 
-🔗 [Azure Functions](https://cda.ms/1yH)
+🔗 [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=allaroundazure-blog-cassieb)
 
 More:
 
@@ -52,9 +52,9 @@ More:
 
 ### Learn more about Cassie Breviu
 
-🔗 [@Twitter_Name](https://twitter.com/cassieview)
+🔗 [@CassieView](https://twitter.com/cassieview)
 
-🔗 [Bio](https://developer.microsoft.com/en-us/advocates/cassie-breviu)
+🔗 [Cassie's Bio](https://developer.microsoft.com/en-us/advocates/cassie-breviu)
 
 
 ---
