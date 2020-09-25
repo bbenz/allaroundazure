@@ -3,7 +3,7 @@ title: "Securing our Serverless Apps on Azure"
 author: Jason Hand
 date: 2020-08-20
 draft: false
-image: 2020-08-19-dean-bryen.jpg
+image: 2020-08-19-Dean-Bryen.jpg
 ---
 
 #### 📺 029 - Dean Bryen 🎙️ Jason Hand
