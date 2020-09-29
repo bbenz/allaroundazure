@@ -31,7 +31,7 @@ By attending this session, you will learn how to get started with Apache Spark, 
 
 ### Learn more about Adi Polak
 
-🔗 [@adpolak](https://twitter.com/adpolak)
+🔗 [@adipolak](https://twitter.com/adipolak)
 
 ### Find Us On
 
