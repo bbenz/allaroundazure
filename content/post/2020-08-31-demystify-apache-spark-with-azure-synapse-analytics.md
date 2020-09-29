@@ -1,12 +1,12 @@
 ---
 title: "Demystify Apache Spark with Azure Synapse Analytics"
 author: Jason Hand
-date: 2020-08-31
+date: 2020-09-02
 draft: true
-image: BitStreaming.jpeg
+image: 2020-09-02-Adi-Polak.jpg
 ---
 
-#### 📺 032 - Adi Polak 🎙️ Jason Hand
+#### 📺 034 - Adi Polak 🎙️ Jason Hand
 
 <!--more-->
 
@@ -20,23 +20,18 @@ By attending this session, you will learn how to get started with Apache Spark, 
 
 ---
 
-
 ### Useful Links
 
-🔗 https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/?WT.mc_id=allaroundazure-stream-adpolak
+🔗 [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/?WT.mc_id=allaroundazure-blog-adpolak)
 
-🔗 https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/?WT.mc_id=allaroundazure-stream-adpolak
+🔗 [Learn Module: Spark architecture fundamentals](https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/?WT.mc_id=allaroundazure-blog-adpolak)
 
-🔗 https://docs.microsoft.com/en-us/learn/modules/intro-to-python/?WT.mc_id=allaroundazure-stream-adpolak
+🔗 [Learn Module: Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/?WT.mc_id=allaroundazure-blog-adpolak)
 
 
 ### Learn more about Adi Polak
 
 🔗 [@adpolak](https://twitter.com/adpolak)
-
-🔗 [Bio]()
-
-
 
 ### Find Us On
 
