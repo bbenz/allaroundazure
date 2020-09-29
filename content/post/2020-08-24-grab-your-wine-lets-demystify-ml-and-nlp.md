@@ -2,7 +2,7 @@
 title: "Grab your Wine, Lets Demystify ML and NLP 🍷"
 author: Jason Hand
 date: 2020-08-24
-draft: true
+draft: false
 image: 2020-08-24-Cassie-Breviu-ep30.jpg
 ---
 
