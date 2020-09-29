@@ -3,7 +3,7 @@ title: "Azure Migration Options: Enterprise Tooling in a Cloud World"
 author: Jason Hand
 date: 2020-08-26
 draft: true
-image: BitStreaming.jpeg
+image: 2020-08-26-JeramiahDooley.jpg
 ---
 
 #### 📺 032 -Jeramiah Dooley 🎙️ Jason Hand
@@ -18,12 +18,14 @@ As a rule, much of the migration efforts that cloud providers focus on are aroun
 
 ---
 
-
 ### Useful Links
 
 🔗 https://docs.microsoft.com/en-us/azure/azure-vmware/introduction
 
-random question : https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/develop-asp-net-core-mvc-apps   https://cda.ms/1zs
+random question : 
+https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/develop-asp-net-core-mvc-apps   
+
+https://cda.ms/1zs
 
 
 ### Learn more about Jeramiah Dooley

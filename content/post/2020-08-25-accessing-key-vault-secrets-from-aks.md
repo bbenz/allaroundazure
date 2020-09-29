@@ -8,6 +8,8 @@ image: 2020-08-25-Neil-Peterson.jpg
 
 #### 📺 031 - Neil Peterson 🎙️ Jason Hand
 
+<!--more-->
+
 {{< video "XIahaT2tc3Y" >}}
 
 In this discussion we will talk through and demonstrate a few different ways to access Azure Key Vault secrets from and Azure Kubernetes Service cluster.
