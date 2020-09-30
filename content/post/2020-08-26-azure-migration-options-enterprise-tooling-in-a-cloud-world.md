@@ -20,20 +20,15 @@ As a rule, much of the migration efforts that cloud providers focus on are aroun
 
 ### Useful Links
 
-🔗 https://docs.microsoft.com/en-us/azure/azure-vmware/introduction
+🔗 [VMware on Azure](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction?WT.mc_id=allaroundazure-devto-jedooley)
 
-random question : 
-https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/develop-asp-net-core-mvc-apps   
-
-https://cda.ms/1zs
-
+🔗 [.NET Architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/develop-asp-net-core-mvc-apps?WT.mc_id=allaroundazure-devto-jedooley)
 
 ### Learn more about Jeramiah Dooley
 
 🔗 [@jdooley_clt](https://twitter.com/jdooley_clt)
 
 🔗 [Bio]()
-
 
 
 ### Find Us On
