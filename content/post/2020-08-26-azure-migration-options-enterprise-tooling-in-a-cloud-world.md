@@ -2,7 +2,7 @@
 title: "Azure Migration Options: Enterprise Tooling in a Cloud World"
 author: Jason Hand
 date: 2020-08-26
-draft: true
+draft: false
 image: 2020-08-26-JeramiahDooley.jpg
 ---
 
