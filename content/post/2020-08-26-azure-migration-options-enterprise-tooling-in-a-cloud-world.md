@@ -28,7 +28,7 @@ As a rule, much of the migration efforts that cloud providers focus on are aroun
 
 🔗 [@jdooley_clt](https://twitter.com/jdooley_clt)
 
-🔗 [Bio]()
+🔗 [Bio](https://developer.microsoft.com/en-us/advocates/jeramiah-dooley)
 
 
 ### Find Us On
