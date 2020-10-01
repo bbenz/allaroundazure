@@ -2,12 +2,11 @@
 title: "Getting faster answers and better visibility with Azure Resource Graph"
 author: Frank Boucher
 date: 2020-08-30
-draft: true
-image: BitStreaming.jpeg
+draft: false
+image: 2020-08-30-Stephane-Lapointe.jpg
 ---
 
 #### 📺 033 - Stephane Lapointe 🎙️ Frank Boucher
-
 
 <!--more-->
 
@@ -15,31 +14,9 @@ image: BitStreaming.jpeg
 
 ---
 
-* Intro to ARG
-* Use cases
-    * Get infos about resources
-    * Get Azure Advisors recommendations
-    * Security Center Assesments
-* limits
-* Showing first 1000 of 3258 results. (Duration: 00:00.650)
+If you're interested in achieving faster, more efficient cloud governance and increase visibility—with less effort—you're at the right place.
 
-* Intro to query language by example
-    * Tables
-    * | where
-    * | project
-    * | project-away
-    * | summarize count()
-    * | count
-    * | order by type asc
-    * | extend
-    * | mv-expand
-    * | limit
-    * | take
-    * | top
-* Shared Query
-* Pin to Dashboard
-* Inventory Dashboard samples
-
+We'll go over the basics of Azure Resource Graph and shows you how to leverage it to streamline your subscription management and governance duties. Learn the query language that will enable you to get answers, blazing fast. It is a fundamental tool to master nowadays if you are serious about management in Azure.
 
 ---
 
@@ -48,11 +25,11 @@ image: BitStreaming.jpeg
 
 🔗 [Azure Free Account](https://bit.ly/ASAFreeAccount)
 
-🔗 [Azure Resource Graph documentation](https://docs.microsoft.com/en-us/azure/governance/resource-graph/?WT.mc_id=allaroundazure-video-fboucher)  - https://cda.ms/1zK
+🔗 [Azure Resource Graph documentation](https://docs.microsoft.com/en-us/azure/governance/resource-graph/?WT.mc_id=allaroundazure-video-fboucher) 
 
 🔗 [Starter queries for Azure Resource Graph](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?WT.mc_id=allaroundazure-video-fboucher)
 
-🔗 [Understanding the Azure Resource Graph query language](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/query-language?WT.mc_id=allaroundazure-video-fboucher) - https://cda.ms/1zL
+🔗 [Understanding the Azure Resource Graph query language](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/query-language?WT.mc_id=allaroundazure-video-fboucher)
 
 🔗 [Azure Resource Graph quickstart queries](https://github.com/sharegate/azure-quickstart-resource-graph)
 
@@ -71,6 +48,6 @@ image: BitStreaming.jpeg
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
 
-🔗 [Twitter](https://twitter.com/jasonhand)
+🔗 Twitter: [@fboucheros](https://twitter.com/fboucheros)
 
 ☁️
