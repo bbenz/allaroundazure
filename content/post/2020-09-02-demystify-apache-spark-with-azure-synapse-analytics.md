@@ -2,7 +2,7 @@
 title: "Demystify Apache Spark with Azure Synapse Analytics"
 author: Jason Hand
 date: 2020-09-02
-draft: true
+draft: false
 image: 2020-09-02-Adi-Polak.jpg
 ---
 
