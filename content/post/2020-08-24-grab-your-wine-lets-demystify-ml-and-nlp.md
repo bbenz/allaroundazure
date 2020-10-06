@@ -1,5 +1,5 @@
 ---
-title: "Grab your Wine, Lets Demystify ML and NLP 🍷"
+title: "Grab your Wine, Lets Demystify Machine Learning and Natural Language Processing (NLP) 🍷"
 author: Jason Hand
 date: 2020-08-24
 draft: false
