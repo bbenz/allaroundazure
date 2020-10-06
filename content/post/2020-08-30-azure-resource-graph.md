@@ -48,6 +48,6 @@ We'll go over the basics of Azure Resource Graph and shows you how to leverage i
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
 
-🔗 Twitter: [@fboucheros](https://twitter.com/fboucheros)
+🔗 Twitter: [@allaroundazure](https://twitter.com/allaroundazure)
 
 ☁️
