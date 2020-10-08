@@ -2,7 +2,7 @@
 title: "Best VisualStudio Code extensions to work for Azure"
 author: Frank Boucher
 date: 2020-09-14
-draft: true
+draft: false
 image: 2020-09-14-Brian-Clark.jpg
 ---
 
@@ -38,8 +38,6 @@ We will start with the extension included in the extension pack Azure Tools: Azu
 🔗 [VS Code Extension: Azure Resource Manager](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools&WT.mc_id=allaroundazure-blog-brcl)   
 
 🔗 [VS Code Extension: Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage&WT.mc_id=allaroundazure-blog-brcl)  
-
-
 
 
 ### Learn more about Brian Clark
