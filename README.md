@@ -28,20 +28,20 @@ All [Around Azure Web](https://blog.allaroundazure.com/) Site
 - 023 [NOSQL For The Relational Thinker](episodes/023)
 - 024 [Three Ways to Deploy Your App on Azure](episodes/024)
 - 025 [Coding Python: Deploy Django and Postgres Apps to Azure with VS Code](episodes/025)
-- 026 From Zero to Cloud in Java
-- 027 What kind of reality is that?
-- 028 Using AI to avoid touching your face
-- 029 Securing our Serverless Apps on Azure
-- 030 Grab your Wine, Lets Demystify ML and NLP
-- 031 Accessing Key Vault secrets from an Azure Kubernetes Cluster
-- 032 Azure Migration Options: Enterprise Tooling in a Cloud World
-- 033 Getting faster answers and better visibility with Azure Resource Graph
-- 034 Demystify Apache Spark with Azure Synapse Analytics
-- 035 Michael Jolley - Building Azure Function Powered Video Chat
-- 036 April Edwards - Managing Application Delivery with Azure DevOps and A/B Testing in Azure
-- 037 - Best VisualStudio Code extensions to work for Azure - Brian Clark
-- 038 - Shannon Kuehn - Azure Storage – the Unsung Hero
-- 039 - Raphael - Simple login for your webapp with Identity
-- 040 All Around Azure unplugged
-- 041 Serverless Azure Functions in .NET 
+- 026 [From Zero to Cloud in Java](episodes/026)
+- 027 [What kind of reality is that?](episodes/027)
+- 028 [Using AI to avoid touching your face](episodes/028)
+- 029 [Securing our Serverless Apps on Azure](episodes/029)
+- 030 [Grab your Wine, Lets Demystify ML and NLP](episodes/029)
+- 031 [Accessing Key Vault secrets from an Azure Kubernetes Cluster](episodes/030)
+- 032 [Azure Migration Options: Enterprise Tooling in a Cloud World](episodes/032)
+- 033 [Getting faster answers and better visibility with Azure Resource Graph](episodes/033)
+- 034 [Demystify Apache Spark with Azure Synapse Analytics](episodes/034)
+- 035 [Building Azure Function Powered Video Chat](episodes/035)
+- 036 [Managing Application Delivery with Azure DevOps and A/B Testing in Azure](episodes/036)
+- 037 [Best VisualStudio Code extensions to work for Azure](episodes/037)
+- 038 [Azure Storage – the Unsung Hero](episodes/038)
+- 039 [Simple login for your webapp with Identity](episodes/039)
+- 040 [All Around Azure unplugged](episodes/040)
+- 041 [Serverless Azure Functions in .NET](episodes/041) 
 
