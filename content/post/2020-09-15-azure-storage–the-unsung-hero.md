@@ -53,7 +53,7 @@ You have some question? You would like to be part of the [All Around Azure live]
 
 
 
-### Learn more about Brian Clark
+### Learn more about Shannon Kuehn
 
 🔗 [@shankuehn](https://twitter.com/shankuehn)
 
