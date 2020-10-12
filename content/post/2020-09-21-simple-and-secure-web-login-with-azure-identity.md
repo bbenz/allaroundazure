@@ -2,7 +2,7 @@
 title: "Simple and Secure Web Login with Azure Identity"
 author: Frank Boucher
 date: 2020-09-21
-draft: false
+draft: true
 image: 2020-09-21-raphael-mun.jpg
 ---
 
