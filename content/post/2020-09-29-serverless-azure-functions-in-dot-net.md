@@ -33,6 +33,6 @@ A review of the Serverless Azure Functions in .NET
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
 
-🔗 [Twitter](https://twitter.com/jasonhand)
+🔗 [Twitter](https://twitter.com/allaroundazure)
 
 ☁️

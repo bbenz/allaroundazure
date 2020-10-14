@@ -10,6 +10,8 @@ image: BitStreaming.jpeg
 
 <!--more-->
 
+{{< video "8fxKquyocdA" >}}
+
 ---
 
 Frank and Jason discuss All Around Azure episodes and answer questions with the audience.
@@ -20,15 +22,15 @@ Frank and Jason discuss All Around Azure episodes and answer questions with the 
 
 🔗 [Free Azure Account](https://azure.microsoft.com/account/free?WT.mc_id=allaroundazure-blog-jahand)
 
-🔗 [General Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=allaroundazure-stream-jahand)
+🔗 [General Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=allaroundazure-blog-jahand)
 
-🔗 [Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?WT.mc_id=allaroundazure-stream-jahand)
+🔗 [Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?WT.mc_id=allaroundazure-blog-jahand)
 
-🔗 [Sonia's blog](https://techcommunity.microsoft.com/t5/itops-talk-blog/exam-review-az-900-microsoft-azure-fundamentals/ba-p/565041?WT.mc_id=allaroundazure-stream-jahand)
+🔗 [Sonia's blog](https://techcommunity.microsoft.com/t5/itops-talk-blog/exam-review-az-900-microsoft-azure-fundamentals/ba-p/565041?WT.mc_id=allaroundazure-blog-jahand)
 
-🔗 [Learn Module](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=allaroundazure-stream-jahand)
+🔗 [Learn Module](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=allaroundazure-blog-jahand)
 
-🔗 [Cloud Skills Challenge (until Oct 15)](https://csc.docs.microsoft.com/ignite/registration/?WT.mc_id=allaroundazure-stream-jahand)
+🔗 [Cloud Skills Challenge (until Oct 15)](https://csc.docs.microsoft.com/ignite/registration/?WT.mc_id=allaroundazure-blog-jahand)
 
 🔗 [Franky's notes](http://www.frankysnotes.com/2018/09/what-happen-when-you-mix-aspnet-core.html)
 
@@ -40,19 +42,19 @@ Frank and Jason discuss All Around Azure episodes and answer questions with the 
 
 🔗 [Migration tool](https://appmigration.microsoft.com/)
 
-🔗 [API Mgmt](https://azure.microsoft.com/en-us/services/api-management/?WT.mc_id=allaroundazure-stream-jahand)
+🔗 [API Mgmt](https://azure.microsoft.com/en-us/services/api-management/?WT.mc_id=allaroundazure-blog-jahand)
 
 
-### Learn more about Jason Hand
+### Learn more about Jason Hand and Frank Boucher
 
 🔗 [@jasonhand](https://twitter.com/jasonhand)
 
-
+🔗 [@fboucheros](https://twitter.com/fboucheros)
 
 ### Find Us On
 
 📺 [Twitch](https://www.twitch.tv/microsoftdeveloper)
 
-🔗 [Twitter](https://twitter.com/jasonhand)
+🔗 [Twitter](https://twitter.com/allaroundazure)
 
 ☁️
