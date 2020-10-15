@@ -18,8 +18,6 @@ In this special episode Frank invites Microsoft RD, Melody Zacharias to the show
 
 Later in the episode, Jason Hand joins to host a live Kahoot game pitting Frank and Melody against the audience in a game of Azure trivia.
 
-Melody Zacharias - Microsoft MVP / RD
-
 ### Useful Links
 
 🔗 [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=allaroundazure-blog-jahand)
@@ -39,21 +37,12 @@ Melody Zacharias - Microsoft MVP / RD
 🔗 [Learn Collection: Azure Synapse](https://docs.microsoft.com/en-us/users/jasonhand/collections/3gyec8611o2ej5/?WT.mc_id=allaroundazure-blog-jahand)
 
 
-
-
-
-🔗 [Azure IoT Hub](https://cda.ms/1tm)
-
-
-
-
 ### Learn more about Melody Zacharias
+
+Melody Zacharias - Microsoft MVP / RD
 
 🔗 [@SQLMelody](https://twitter.com/SQLMelody)
 
-
-
----
 
 ### Find Us On
 
