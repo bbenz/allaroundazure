@@ -3,16 +3,36 @@ title: "All Around Azure : Ignite Recap"
 author: Frank Boucher
 date: 2020-09-24
 draft: true
-image: BitStreaming.jpeg
+image: 2020-09-24-melody-zacharias.png
 ---
 
 #### 📺 000 - Melody Zacharias 🎙️ Frank Boucher & Jason Hand
 
 <!--more-->
 
-{{< video "YouTubeShortCode" >}}
+{{< video "Qx2HkBtJZic" >}}
 
-One or two sentence description of the episode
+Melody Zacharias - Microsoft MVP / RD
+
+Microsoft Ignite
+
+Sessions on demand
+
+Synapse News
+
+Demo
+
+Synapse Analytics
+
+Game @ 31:45
+
+Kahoot
+
+MS Learn links
+
+"work with relational data in Azure" learn module
+
+
 
 ### Useful Links
 
@@ -24,7 +44,7 @@ One or two sentence description of the episode
 
 ### Learn more about Melody Zacharias
 
-🔗 [@Twitter_Name](https://twitter.com/SQLMelody)
+🔗 [@SQLMelody](https://twitter.com/SQLMelody)
 
 
 
