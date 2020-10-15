@@ -2,7 +2,7 @@
 title: "All Around Azure Unplugged (Special Episode)"
 author: Frank Boucher
 date: 2020-09-28
-draft: true
+draft: false
 image: BitStreaming.jpeg
 ---
 
@@ -14,7 +14,7 @@ image: BitStreaming.jpeg
 
 ---
 
-Frank and Jason discuss All Around Azure episodes and answer questions with the audience.
+In the 40th episode of All Around Azure, Frank and Jason pause to discuss previous episodes as well as answer questions with the audience.
 
 ---
 
