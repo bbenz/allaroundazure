@@ -14,7 +14,7 @@ image: 2020-09-24-melody-zacharias.png
 
 <!--more-->
 
-In this special episode Frank invites Microsoft RD, Melody Zacharias to the show to discuss higlights of from this year's Microsoft Ignite. Melody spends a little time showing off some of the new functionality in Azure Synapse Analytics and answers questions from the live audience on [Twitch](https://twitch.tv/microsoftdeveloper). 
+In this *special* episode Frank invites Microsoft RD, [Melody Zacharias](https://mvp.microsoft.com/en-us/PublicProfile/5001973?fullName=Melody%20Zacharias) to the show to discuss higlights of from this year's Microsoft Ignite. Melody spends a little time showing off some of the new functionality in Azure Synapse Analytics and answers questions from the live audience on [Twitch](https://twitch.tv/microsoftdeveloper). 
 
 Later in the episode, Jason Hand joins to host a live Kahoot game pitting Frank and Melody against the audience in a game of Azure trivia.
 
@@ -36,10 +36,11 @@ Later in the episode, Jason Hand joins to host a live Kahoot game pitting Frank 
 
 🔗 [Learn Collection: Azure Synapse](https://docs.microsoft.com/en-us/users/jasonhand/collections/3gyec8611o2ej5/?WT.mc_id=allaroundazure-blog-jahand)
 
+![](https://blog.allaroundazure.com/images/IgniteRecapQuizShow.png)
 
 ### Learn more about Melody Zacharias
 
-Melody Zacharias - Microsoft MVP / RD
+[Melody Zacharias - Microsoft MVP / RD](https://mvp.microsoft.com/en-us/PublicProfile/5001973?fullName=Melody%20Zacharias)
 
 🔗 [@SQLMelody](https://twitter.com/SQLMelody)
 
