@@ -31,7 +31,7 @@ Brandon joins Jason to chat about serverless and build a API endpoint using .NET
 
 ### Learn more about Brandon Minnick
 
-🔗 [@Theblog](https://twitter.com/Theblog)
+🔗 [@TheCodeTraveler](https://twitter.com/TheCodeTraveler)
 
 🔗 [Bio](https://developer.microsoft.com/en-us/advocates/brandon-minnick)
 
