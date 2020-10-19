@@ -10,6 +10,8 @@ image: 2020-09-29-Brandon-Minnick.jpg
 
 <!--more-->
 
+{{< video "xfrZ0qhDCKA" >}}
+
 ---
 
 In this follow-up to [episode 008](https://blog.allaroundazure.com/post/2020-07-02-creating-your-first-serverless-api/), Jason and Brandon pick up where they left off and ask "where do we go from here?" 
