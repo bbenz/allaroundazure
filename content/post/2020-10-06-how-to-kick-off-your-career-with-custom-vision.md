@@ -2,7 +2,7 @@
 title: "How To Kick Off Your Career With Custom Vision"
 author: Jason Hand
 date: 2020-10-06
-draft: true
+draft: false
 image: 2020-10-06-Mikolaj-Sienkiewicz.jpg
 ---
 
@@ -10,9 +10,13 @@ image: 2020-10-06-Mikolaj-Sienkiewicz.jpg
 
 <!--more-->
 
-{{< video "Du7fUxIxYjE" >}}
+{{< video "7lUm5lMl0d8" >}}
 
-Episode 43 introduces Mikolaj Sienkiewicz, a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) to the show to dicuss Azure's Custom Vision. Mikloaj shares his experience in the [Imagine Cup Competition](https://imaginecup.microsoft.com) as well as his project "Asisto". Follow along as Jason and Mikolaj go through Azure's Cognitive Services, specifically the [Custom Vision portal](https://www.customvision.ai/). See how easy it is to build powerful AI applications using a variety of cognitive services offered on [Azure](https://azure.microsoft.com/free/students/?WT.mc_id=allaroundazure-stream-cxa). 
+Episode 43 introduces Mikolaj Sienkiewicz, a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) to the show to dicuss Azure's Custom Vision. Mikloaj shares his experience in the [Imagine Cup Competition](https://imaginecup.microsoft.com) as well as his project "Asisto". 
+
+Follow along as Jason and Mikolaj go through Azure's Cognitive Services, specifically the [Custom Vision portal](https://www.customvision.ai/). See how easy it is to build powerful AI applications using a variety of cognitive services offered on [Azure](https://azure.microsoft.com/free/students/?WT.mc_id=allaroundazure-stream-cxa). 
+
+Resources and links are found below for datasets and tools to follow along with the live demo and perform your very own image recognition.
 
 ### Useful Links
 
