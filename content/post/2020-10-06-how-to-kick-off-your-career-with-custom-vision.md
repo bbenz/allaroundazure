@@ -2,7 +2,7 @@
 title: "How To Kick Off Your Career With Custom Vision"
 author: Jason Hand
 date: 2020-10-06
-draft: false
+draft: true
 image: 2020-10-06-Mikolaj-Sienkiewicz.jpg
 ---
 
