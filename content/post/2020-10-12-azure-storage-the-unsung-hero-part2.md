@@ -2,7 +2,7 @@
 title: "Azure Storage – the Unsung Hero - part 2"
 author: Shannon Kuehn
 date: 2020-10-12
-draft: true
+draft: false
 image: 2020-10-12-shannon-kuehn.png
 ---
 
