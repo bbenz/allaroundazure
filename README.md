@@ -1,6 +1,6 @@
 # All Around Azure
 
-All [Around Azure Web](https://blog.allaroundazure.com/) Site
+All [Around Azure Web](https://blog.allaroundazure.com/?WT.mc_id=java-0000-bbenz) Site
 
 ## Episode
 - 000 [2020 Ignite Recap](episodes/000)
